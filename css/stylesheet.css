@@ -1,0 +1,20 @@
+/* define body using flexbox */
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+/*makes site content fill the screen */
+.site-content {
+  flex: 1;
+}
+
+/* logo styles */
+.logo {
+  max-height: 50px;
+}
+
+h1 {
+color: red;
+}
