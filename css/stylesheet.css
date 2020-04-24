@@ -68,16 +68,11 @@ p {
 
 /* logo styles */
 .logo {
-  max-height: 50px;
+
+  max-height: 100px;
 }
 
-/*footer styles */
-footer {
 
-  color: #fff;
-  padding-left: 10px;
-  padding-right: 10px;
-}
 
 .footer-styles {
   background-color: #000;
@@ -87,6 +82,12 @@ footer {
   background-color: #fff!important;
 }
 
+/*footer styles */
+footer {
+  color: #fff;
+  padding-left: 15px!important;
+  padding-right: 15px!important;
+}
 
 .navbar-light {
 color: #fff!important;
@@ -101,15 +102,13 @@ margin-bottom: 0px!important;
   border: none;
 }
 
-.logo {
-max-height: 100px;
-}
+
 
 
 .hero {
   border-right: 15px solid #fff;
   border-left: 15px solid #fff;
-  height: 500px!important;
+  height: 300px!important;
   background-color: rgba(0,0,0,.5);
   /*background-image: url("../img/computer.jpg");*/
 }

@@ -47,6 +47,7 @@
     </div>
 
 </div>
+<!--
     <div class="row">
       <div class="col-sm-6 left">
      <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1350&amp;q=80" class="img-fluid">
@@ -69,7 +70,7 @@
       </div>
 
     </div>
-
+-->
 
 
 
