@@ -1,5 +1,5 @@
 <footer>
-  <div class="container-fluid">
+  <div class="container-fluid footer-styles">
     <div class="row  justify-content-between">
       <div class="col">
 
