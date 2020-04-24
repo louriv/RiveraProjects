@@ -43,10 +43,16 @@
 
 h1 {
   font-family: 'Montserrat', arial, sans-serif;
+  text-align: center;
 }
 
 h2 {
-  font-family: 'kayak_sansregular', arial, sans-serif;
+  font-family: 'Montserrat', arial, sans-serif;
+  /*font-family: 'kayak_sansregular', arial, sans-serif;*/
+}
+
+p {
+  font-family: 'Montserrat', arial, sans-serif;
 }
 /* define body using flexbox */
 .site {
@@ -69,8 +75,8 @@ h2 {
 footer {
 
   color: #fff;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .footer-styles {
@@ -84,15 +90,56 @@ footer {
 
 .navbar-light {
 color: #fff!important;
-padding-left: 50px!important;
-padding-right: 50px!important;
+padding-left: 50px;
+padding-right: 50px;
+padding-top: 0px;
+padding-bottom: 0px;
+margin-bottom: 0px!important;
+}
+
+.navbar-light .navbar-toggler {
+  border: none;
+}
+
+.logo {
+max-height: 100px;
 }
 
 
 .hero {
-  border-right: 10px solid #fff;
-  border-left: 10px solid #fff;
+  border-right: 15px solid #fff;
+  border-left: 15px solid #fff;
   height: 500px!important;
   background-color: rgba(0,0,0,.5);
   /*background-image: url("../img/computer.jpg");*/
+}
+
+.bio {
+border: 10px solid #fff;
+padding-top: 0px!important;
+padding-left: 00px!important;
+padding-right: 0px!important;
+
+}
+
+.left {
+
+  border: 10px solid #fff;
+  padding: 0px;
+}
+
+.name-styles {
+  margin-bottom: 0px;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+/* to center flex-items */
+.flex-item {
+   margin: auto;
 }
