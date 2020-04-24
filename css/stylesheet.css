@@ -1,3 +1,53 @@
+@font-face {
+    font-family: 'kayak_sansregular';
+    src: url('../fonts/kayak_sans_regular-webfont.woff2') format('woff2'),
+         url('../fonts/kayak_sans_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'kayak_sansbold_italic';
+    src: url('../fonts/kayak_sans_bold_italic-webfont.woff2') format('woff2'),
+         url('../fonts/kayak_sans_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'kayak_sansbold';
+    src: url('../fonts/kayak_sans_bold-webfont.woff2') format('woff2'),
+         url('../fonts/kayak_sans_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'kayak_sanslight_italic';
+    src: url('../fonts/kayak_sans_light_italic-webfont.woff2') format('woff2'),
+         url('../fonts/kayak_sans_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'kayak_sanslight';
+    src: url('../fonts/kayak_sans_light-webfont.woff2') format('woff2'),
+         url('../fonts/kayak_sans_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'kayak_sansregular_italic';
+    src: url('../fonts/kayak_sans_regular_italic-webfont.woff2') format('woff2'),
+         url('../fonts/kayak_sans_regular_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+  font-family: 'Montserrat', arial, sans-serif;
+}
+
+h2 {
+  font-family: 'kayak_sansregular', arial, sans-serif;
+}
 /* define body using flexbox */
 .site {
   display: flex;
@@ -15,6 +65,34 @@
   max-height: 50px;
 }
 
-h1 {
-color: red;
+/*footer styles */
+footer {
+
+  color: #fff;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.footer-styles {
+  background-color: #000;
+}
+
+.bg-light {
+  background-color: #fff!important;
+}
+
+
+.navbar-light {
+color: #fff!important;
+padding-left: 50px!important;
+padding-right: 50px!important;
+}
+
+
+.hero {
+  border-right: 10px solid #fff;
+  border-left: 10px solid #fff;
+  height: 500px!important;
+  background-color: rgba(0,0,0,.5);
+  /*background-image: url("../img/computer.jpg");*/
 }
