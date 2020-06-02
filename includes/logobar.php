@@ -7,7 +7,7 @@
        </div>
 
        <div class="col">
-         <span class="float-right" style="clear: right; margin-top: 10px;">
+         <span class="float-right" style="clear: right; margin-top: 15px;">
 
 
            <a class="social-icons" href="https://github.com/louriv" target="_blank">
