@@ -70,13 +70,9 @@ p {
 .logo {
   padding-left: 20px;
 
-
 }
-
-
-
 .footer-styles {
-  background-color: #000;
+  background-color: #BFEFFF; /*#C3E4ED; #041E42; */
 }
 
 .bg-light {
@@ -140,6 +136,11 @@ padding-right: 0px!important;
   font-size: 14px;
 }
 
+.icon-section {
+  clear: right;
+  margin-top: 5px;
+}
+
 .social-icons {
   color: rgba(0,0,0,.5);
 }
@@ -152,8 +153,6 @@ a.social-icons:hover {
   color: #000;
 }
 
-
-
 .disclaimer {
   clear: both;
   font-size: 12px;
@@ -165,4 +164,69 @@ a.social-icons:hover {
 
 .navbar-toggler {
   border: 0px solid transparent;
+}
+
+.dropstyles{
+  margin-top: 0px;
+  margin-left: 5px
+  border-radius: 0px;
+  border: 3px solid #bfbfbf;
+
+}
+
+
+/* Footer Styles
+-------------------------------------------------- */
+
+.subfooter {
+	padding: 20px 0 10px 5px;
+	color: #28274B;
+	width: 100%;
+	border-bottom: 1px solid #28274B;
+}
+
+.footer-links {
+	margin: 20px 0 12px;
+	padding: 0;
+	list-style: none;
+}
+.footer-links > li {
+	color: #28274B;
+	display: block;
+	font-weight: normal;
+}
+
+.first, .footer-state-links li {
+	color: #28274B;
+	display: block;
+	font-weight: 600;
+}
+.footer-links a, .ft-sidebar a {
+	color: #28274B;
+	display: inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	font-size: 13px;
+}
+
+.footer-links a:hover, .ft-sidebar a:hover {
+	color: #28274B;
+	display: inline-block;
+	line-height: 1.8;
+	text-decoration: underline;
+	font-size: 13px;
+}
+
+.footer-links a:visited, .ft-sidebar a:visited {
+	color: #28274B;
+	display: inline-block;
+	line-height: 1.8;
+	text-decoration: none;
+	font-size: 13px;
+}
+.footer h3 {
+	padding: 20px 0 10px 0px;
+	color: #fff;
+	width: 100%;
+	border-bottom: 1px solid #000;
 }

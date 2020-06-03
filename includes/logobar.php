@@ -3,11 +3,11 @@
 	   <div class="row">
        <div class="col">
        <a rel="home" href="/" title="Louis A. Rivera jr.">
-         <img src="../riveraprojects/img/r-logo-circle.png" class="img-fluid logo"></a>
+         <img src="../riveraprojects/img/royal-technology.png" class="img-fluid logo"></a>
        </div>
 
        <div class="col">
-         <span class="float-right" style="clear: right; margin-top: 15px;">
+         <span class="float-right icon-section">
 
 
            <a class="social-icons" href="https://github.com/louriv" target="_blank">

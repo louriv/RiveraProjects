@@ -1,0 +1,7 @@
+Royal Technology
+color palette
+
+#041e42 - primary blue
+#ffffff - Primary white
+#bfbfbf - secondary gray
+#BFEFFF - secondary blue - needs to be revisited
