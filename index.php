@@ -23,19 +23,11 @@
 
     <!-- begin content -->
     <div class="site-content">
-      <div class="container">
-        <div class="row">
-          <div class="col-8">
+      <div class="container-fluid">
+        <div class="row"><!-- begin test area -->
 
-</div>
-          <div class="col-4">
-                    </div>
-
-
-
-
-
-</div>
+        
+        </div><!-- end testing area-->
     </div>
   </div>
 
