@@ -2,7 +2,7 @@
   <div class="row">
     <div class="container">
     <div class="col">
-      <nav class="navbar navbar-expand-lg navbar-dark">
+      <nav class="navbar navbar-expand-md navbar-dark">
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -13,24 +13,30 @@
       <li class="nav-item active">
         <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
       </li>
+      <li class="nav-item dropdown">
+       <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         About Royal
+       </a>
+       <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+         <a class="dropdown-item" href="leadership.php">Leadership</a>
+         <a class="dropdown-item" href="mission.php">Our Mission</a>
+       </div>
+     </li>
+     <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+        Services
+      </a>
+      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        <a class="dropdown-item" href="leadership.php">Web Design & Development</a>
+        <a class="dropdown-item" href="#">Graphic Design & Branding</a>
+        <a class="dropdown-item" href="#">Leveraging Technology Platforms</a>
+        <a class="dropdown-item" href="#">General Consulation</a>
+      </div>
+    </li>
       <li class="nav-item">
-        <a class="nav-link" href="leadership.php">Leadership</a>
+        <a class="nav-link" href="#">Clients</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Web Work</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Graphic Work</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Leveraging Technology</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Education</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Awards</a>
-      </li>
+
       <li class="nav-item">
         <a class="nav-link" href="#">Blog</a>
       </li>

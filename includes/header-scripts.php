@@ -12,7 +12,9 @@
 
 <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 
+<link rel="shortcut icon" href="../riveraprojects/favicon.ico" type="image/x-icon">
+<link rel="icon" href="../riveraprojects/favicon.ico" type="image/x-icon">
 
-<title>Rivera Projects</title>
+<title>Royal Technology</title>
 
 </head>

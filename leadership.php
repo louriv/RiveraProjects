@@ -28,7 +28,7 @@
     <div class="col">
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
-        <li class="breadcrumb-item"><a href="/">Home</a></li>
+        <li class="breadcrumb-item"><a href="/" class="breadlinks">Home</a></li>
         <li class="breadcrumb-item active" aria-current="page">Leadership</li>
   </ol>
 </nav>
@@ -39,7 +39,7 @@
       <div class="container">
         <div class="row"><!-- begin test area -->
           <div class="col-sm-12 col-md-4">
-            <img src="../riveraprojects/img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block">
+            <img src="../riveraprojects/img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block img-fluid">
           </div>
 
           <div class="col">
@@ -90,7 +90,7 @@
 
 
 
-
+</div>
 
 
 

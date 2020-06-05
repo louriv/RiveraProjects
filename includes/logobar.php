@@ -39,7 +39,7 @@
          </span>
 
 
-         <div id="google_translate_element" class="hidden-xs hidden-sm" style="clear:both; float: right; position: relative;"></div>
+         <div id="google_translate_element" class="d-none d-md-block" style="clear:both; float: right; position: relative;"></div>
          <span class="float-right disclaimer">
            <a href="#" class="hidden-xs hidden-sm">Disclaimer</a>
          </span>

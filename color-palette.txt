@@ -3,5 +3,8 @@ color palette
 
 #041e42 - primary blue
 #ffffff - Primary white
+#d7c478 - Primary yellow
+
 #bfbfbf - secondary gray
+#d3d3d3 - secondary light gray
 #BFEFFF - secondary blue - needs to be revisited
