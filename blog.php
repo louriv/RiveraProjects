@@ -38,21 +38,16 @@
 
 <div class="container content-padding">
   <div class="row">
-
     <div class="col">
-      <h3>Blogging Tech</h3>
-        <hr/>
+      <h2>Blogging Tech</h2>
       </div>
+    </div>
 
-  </div>
-  
   <div class="row">
     <div class="col">
       <h5>What I Learned Running my own business</h5>
       <p>Running my own small business is something i have considered a key point in my career development. See how running a business can prepare you for the future, whatever that may entail.</p>
-        <p>
-          <br/>Author: Louis A. Rivera Jr.
-        </p>
+        <p>Author: Louis A. Rivera Jr.</p>
 
 
     <p class="space-up"><a href="#" class="small-text">Read More</a> about my journey becoming an Entrepreneur. </p>

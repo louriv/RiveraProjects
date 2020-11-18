@@ -52,12 +52,12 @@
             <ul class="footer-links">
 
                  <li class="first"><strong>Sitemap</strong></li>
-                 <li><a href="#" >Home</a></li>
-                 <li><a href="#" >Leadership</a></li>
-                 <li><a href="#" >Clients</a></li>
-                 <li><a href="#" >Our Mission</a></li>
-                 <li><a href="#" >Inquiries</a></li>
-                 <li><a href="#" >Blog</a></li>
+                 <li><a href="index.php">Home</a></li>
+                 <li><a href="design.php">Design</a></li>
+                 <li><a href="Development.php">Development</a></li>
+                 <li><a href="colleagues.php">Colleagues</a></li>
+                 <li><a href="blog.php" >Blogging Tech</a></li>
+                 <li><a href="employee-login.php">Employee Login</a></li>
 
             </ul>
 
@@ -74,7 +74,7 @@
 
                               <hr/>
 
-                <li class="first"><strong>Social</strong></li>
+                <li class="first"><strong>Let's Get Social</strong></li>
                 <p class="icon-section">
                   <a class="social-icons" href="https://github.com/louriv" target="_blank">
                     <i class="fab fa-github"></i>

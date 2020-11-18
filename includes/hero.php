@@ -6,13 +6,17 @@
           </div>
           <div class="col-9">
 
-              <h2><span><i class="fas fa-quote-left"></i></span></h2>
-              <p>I have consistently provided 10+ years of technology consulting to clients. I am committed to innovation and improvement for each and every one of my clients across a wide array of technology capability.</p>
-              <p>From day 1 I have been an ambitious Web Developer who takes a keen interest in all kinds of technology. With a background in Design, Development & Project Management, I am always looking to stay at the forefront of cutting-edge technology.</p>
+            <h2>Oh, Hello. Nice to Finally Meet.</h2>
+
+
+
+              <p> I have provided 10+ years of technology consulting to clients. I am committed to innovation and improvement for each and every one of my clients across a wide variety of technology capability.</p>
+              <p> <span><i class="fas fa-quote-left"></i></span> Ever since my first 'hello world', I have been an ambitious Web Developer who takes a keen interest in all kinds of technology. With a background in Design, Development & Project Management, I am always looking to stay at the forefront of cutting-edge technology. I take pride in my never ending curiosity and thirst for knowledge. I can't imagine what life is like at the end of this technology journey, however, Chief Technology Officer has a nice ring to it ;)</p>
+              <p><a type="button" class="btn btn-gold" rel="noopener noreferrer" href="../RiveraProjects/pdf/RiveraResume.pdf" target="_blank">Rivera Resume</a></p>
 
               <p class="icon-section">
                 <b>Louis A. Rivera Jr.</b>
-                <br/> Technology Consultant
+                <br/>Developer & Technology Consultant
                 <br/>  <a class="social-icons" href="https://github.com/louriv" target="_blank">
                   <i class="fab fa-github"></i>
                 </a>
@@ -40,51 +44,7 @@
   <!-- /.row -->
 
 
-  <hr/>
 
-          <div class="row">
-
-
-                        <div class="col">
-
-                        <p><b>CBT Software Developer / Trainer</b>
-                          <br/>By Light Professional IT Solutions
-                        </p>
-
-                        <p>The role is supporting the Defense Information Systems Agency (DISA) Cybersecurity Network Operations (CyberNetOps) Design Deploy Sustain (CNODDS) contract as a Computer-based Training Software Developer.</p>
-
-                        <p>Notable Aspects:</p>
-                        <ul>
-                          <li>Treasurer's award Receipient - State of New Jersey</li>
-                          <li>CompTIA Security+ CE Certification</li>
-                          <li>Current and Active Secret Clearance</li>
-                          <li>Master's Level Education</li>
-                        </ul>
-
-
-
-
-                        </div>
-
-
-            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-              <div class="text-container">
-                <a href="#">
-                  <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
-                </a>
-                <div class="tag">
-                  Latest Resume
-            </div>
-            </div>
-
-
-            <p class="space-up">Download my latest resume. <a href="#" class="small-text">Read More</a></p>
-
-          </div>
-
-
-
-          </div>
 
 
         </div>

@@ -48,7 +48,19 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', arial, sans-serif;
+  margin-bottom: .5rem;
   /*font-family: 'kayak_sansregular', arial, sans-serif;*/
+}
+
+.portfolio-items {
+  max-height: 210px;
+}
+
+a.btn-gold:hover {
+color: #fff;
+background-color: #041e42;
+border-color: #041e42;
+text-decoration: none!important;
 }
 
 p {
@@ -167,6 +179,7 @@ a.social-icons:hover {
 .breadcrumb {
   background-color: #fff;
   padding: .75rem 3rem;
+  margin-bottom: 0px;
 }
 
 .login-img {
