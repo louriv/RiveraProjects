@@ -36,8 +36,8 @@
 </div>
 </div>
 
-      <div class="container">
-        <div class="row"><!-- begin test area -->
+      <div class="container content-padding">
+        <div class="row">
           <div class="col-sm-12 col-md-4">
               <div class="text-container">
             <img src="../riveraprojects/img/code.jpg" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid">
@@ -67,7 +67,7 @@
               </div>
 
 
-        </div><!-- end testing area-->
+        </div>
     </div>
   </div>
 

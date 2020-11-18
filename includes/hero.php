@@ -1,5 +1,5 @@
 <!-- Begin Content -->
-  <div class="container insidecontent">
+  <div class="container indexcontent">
         <div class="row">
           <div class="col">
             <img src="../riveraprojects/img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block img-fluid">
@@ -12,7 +12,7 @@
 
               <p class="icon-section">
                 <b>Louis A. Rivera Jr.</b>
-                <br/> CEO & Technology Consultant
+                <br/> Technology Consultant
                 <br/>  <a class="social-icons" href="https://github.com/louriv" target="_blank">
                   <i class="fab fa-github"></i>
                 </a>
@@ -39,7 +39,7 @@
         </div>
   <!-- /.row -->
 
-  
+
   <hr/>
 
           <div class="row">

@@ -36,9 +36,9 @@
 </div>
 </div>
 
-      <div class="container">
+      <div class="container content-padding">
         <div class="row"><!-- begin test area -->
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-3">
             <img src="../riveraprojects/img/login.jpg" alt="Employee Login" class="login-img d-none d-md-block img-fluid">
           </div>
 
@@ -46,7 +46,7 @@
 
             <div class="container-fluid">
             <h3>Welcome Back</h3>
-            <p class="login-paragraph">Please Login for access to the employee portal</p>
+            <p class="login-paragraph">Please Login for access to the employee portal. For help with login issues, please email your administrator</p>
 
 
 
@@ -70,7 +70,7 @@
       <input type="checkbox" class="form-check-input" id="exampleCheck1">
       <label class="form-check-label" for="exampleCheck1">Remember Me</label>
     </div>
-  <button type="submit" class="btn btn-gold">Submit</button>
+  <button type="submit" class="btn btn-gold">Login</button>
 </form>
 <!--End Login Form -->
               </div>

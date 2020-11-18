@@ -36,9 +36,9 @@
 </div>
 </div>
 
-      <div class="container">
+      <div class="container content-padding">
         <div class="row"><!-- begin test area -->
-          <div class="col-sm-12 col-md-4">
+          <div class="col-sm-12 col-md-3">
             <img src="../riveraprojects/img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block img-fluid">
           </div>
 

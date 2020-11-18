@@ -33,18 +33,18 @@
         <a class="dropdown-item" href="#">General Consulation</a>
       </div>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Integration</a>
+    </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Clients</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Resume</a>
+        <a class="nav-link" href="../RiveraProjects/pdf/RiveraResume.pdf" target="_blank">Resume</a>
       </li>
 
       <li class="nav-item">
         <a class="nav-link" href="blog.php">Blog</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Inquiries</a>
       </li>
     </ul>
 
