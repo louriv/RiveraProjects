@@ -47,7 +47,7 @@
 
         <div class="container">
           <div class="row">
-            <div class="col-sm-12 col-md-4">
+            <div class="col-sm-12 col-md-4  space-up">
                 <div class="text-container">
               <a href="https://www.comingsoon.riveraprojects.com"><img src="../riveraprojects/img/coming-soon.png" alt="Landing Page" class="img-thumbnail d-none d-md-block img-fluid"></a>
               <!--add tag if you want a blue banner over the image
@@ -65,6 +65,26 @@
 
               </div>
             </div>
+
+            <div class="row">
+              <div class="col-sm-12 col-md-4  space-up">
+                  <div class="text-container">
+                <a href="https://www.intranet.riveraprojects.com"><img src="../riveraprojects/img/intranet.png" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
+                <!--add tag if you want a blue banner over the image
+                <div class="tag">
+                 </div>
+                -->
+              </div>
+            </div>
+            <div class="col">
+              <div class="container-fluid">
+                <h4>Company Intranet Project</h4>
+                <p>An intranet is a website or portal located within the network of a company. typically only available to employees, most intranets are not reachable by the public web. Companies usually use this section to contain important information and documents such as HR related information. </p>
+                <a class="btn btn-gold" href="http://www.intranet.riveraprojects.com/" target="_blank">Company Intranet Project</a>
+              </div>
+
+                </div>
+              </div>
         </div>
 
         <!-- gallery grid of websites

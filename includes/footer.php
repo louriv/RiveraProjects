@@ -42,7 +42,7 @@
               <li class="first"><strong>Website Projects</strong></li>
 
               <li><a href="http://www.comingsoon.riveraprojects.com/" target="_blank">Coming Soon Landing Page</a></li>
-                <li><a href="#">Example 2</a></li>
+                <li><a href="https://www.intranet.riveraprojects.com">Company Intranet Project</a></li>
               <li><a href="#">Example 3</a></li>
                 <li><a href="#">Example 4</a></li>
 
@@ -67,11 +67,11 @@
             <ul class="footer-links">
 
 
-                              <li class="first"><strong>Services</strong></li>
-                              <li><a href="#" >Web Design</a></li>
-                              <li><a href="#" >Graphic Design</a></li>
-                              <li><a href="#" >Consulatation</a></li>
-                              <li><a href="#" >Platform Implementation</a></li>
+                              <li class="first"><strong>Integration Projects</strong></li>
+                              <li><a href="https://www.moodle.riveraprojects.com" target="_blank" >LMS integration</a></li>
+                              <li><a href="#" >Example 2</a></li>
+                              <li><a href="#" >Example 3</a></li>
+                              <li><a href="#" >Example 4</a></li>
 
                               <hr/>
 
