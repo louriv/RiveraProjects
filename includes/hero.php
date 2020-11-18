@@ -1,40 +1,93 @@
 <!-- Begin Content -->
   <div class="container insidecontent">
         <div class="row">
+          <div class="col">
+            <img src="../riveraprojects/img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block img-fluid">
+          </div>
+          <div class="col-9">
 
-              <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
-                <div class="text-container">
-                  <a href="#">
-                    <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
-                  </a>
-                  <div class="tag">
-                    Brand Launch
-              </div>
-              </div>
+              <h2><span><i class="fas fa-quote-left"></i></span></h2>
+              <p>I have consistently provided 10+ years of technology consulting to clients. I am committed to innovation and improvement for each and every one of my clients across a wide array of technology capability.</p>
+              <p>From day 1 I have been an ambitious Web Developer who takes a keen interest in all kinds of technology. With a background in Design, Development & Project Management, I am always looking to stay at the forefront of cutting-edge technology.</p>
+
+              <p class="icon-section">
+                <b>Louis A. Rivera Jr.</b>
+                <br/> CEO & Technology Consultant
+                <br/>  <a class="social-icons" href="https://github.com/louriv" target="_blank">
+                  <i class="fab fa-github"></i>
+                </a>
+                &nbsp;
+                <a class="social-icons" href="https://www.linkedin.com/in/louisrivera1/" target="_blank">
+                  <i class="fab fa-linkedin"></i>
+                </a>
+                &nbsp;
+                <a class="social-icons" href="https://baltimoredesign.slack.com/" target="_blank">
+                  <i class="fab fa-slack" aria-hidden="true"></i>
+                </a>
+                &nbsp;
+                <a class="social-icons" href="mailto:https://baltimoredesign.slack.com/" target="_blank">
+                  <i class="fas fa-envelope-open-text"></i>
+                </a>
+              </p>
+
+</div>
 
 
-              <p class="space-up">Royal Technology launches new website. <a href="#" class="small-text">Read More</a></p>
-
-            </div>
-
-
-              <div class="col">
-              <h2>Royal Technology</h2>
-              <p>Welcome to the Website Launch of Royal Technology. We have changed our look and updated our brand standards. Learn more about the Redesign process <a href="#">here</a>. To be redirected quickly, please select and option from one of the dropdown menus below.</p>
-
-             <!-- <div class="embed-responsive embed-responsive-16by9">
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/JGAcbRqQEn4" frameborder="0" allowfullscreen></iframe></div> -->
-
-
-
-              </div>
 
 
 
         </div>
   <!-- /.row -->
 
-          <hr/>
+  
+  <hr/>
+
+          <div class="row">
+
+
+                        <div class="col">
+
+                        <p><b>CBT Software Developer / Trainer</b>
+                          <br/>By Light Professional IT Solutions
+                        </p>
+
+                        <p>The role is supporting the Defense Information Systems Agency (DISA) Cybersecurity Network Operations (CyberNetOps) Design Deploy Sustain (CNODDS) contract as a Computer-based Training Software Developer.</p>
+
+                        <p>Notable Aspects:</p>
+                        <ul>
+                          <li>Treasurer's award Receipient - State of New Jersey</li>
+                          <li>CompTIA Security+ CE Certification</li>
+                          <li>Current and Active Secret Clearance</li>
+                          <li>Master's Level Education</li>
+                        </ul>
+
+
+
+
+                        </div>
+
+
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
+              <div class="text-container">
+                <a href="#">
+                  <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
+                </a>
+                <div class="tag">
+                  Latest Resume
+            </div>
+            </div>
+
+
+            <p class="space-up">Download my latest resume. <a href="#" class="small-text">Read More</a></p>
+
+          </div>
+
+
+
+          </div>
+
+
+        </div>
 
 </div>
 

@@ -1,3 +1,8 @@
+<!--spacer between content and footer -->
+<div class="container-fluid footer-spacer">
+
+</div>
+
 <div class="container-fluid footer-styles">
   <div class="row">
     <div class="container">

@@ -72,7 +72,7 @@ p {
 
 }
 .footer-styles {
-  background-color: #d3d3d3; /*#C3E4ED; #041E42; #bfbfbf*/
+  background-color: #f5f5f5; /*#C3E4ED; #041E42; #bfbfbf*/
 }
 
 .bg-light {
@@ -84,6 +84,7 @@ footer {
   color: #fff;
   padding-left: 15px!important;
   padding-right: 15px!important;
+
 }
 
 
@@ -93,14 +94,6 @@ footer {
   height: 300px!important;
   background-color: rgba(0,0,0,.5);
   /*background-image: url("../img/computer.jpg");*/
-}
-
-.bio {
-border: 10px solid #fff;
-padding-top: 0px!important;
-padding-left: 00px!important;
-padding-right: 0px!important;
-
 }
 
 .left {
@@ -176,14 +169,39 @@ a.social-icons:hover {
   padding: .75rem 3rem;
 }
 
+.login-img {
+  margin: 5px;
+  float:right;
+  width:75%;
+}
+
+.btn-gold {
+  color: #fff;
+  background-color: #d7c478;;
+  border-color: #d7c478;;
+
+}
+
 .bio {
-  max-width: 200px;
+border: 10px solid #fff;
+padding-top: 0px!important;
+padding-left: 0px!important;
+padding-right: 0px!important;
+
+}
+
+.bio {
+  max-width: 250px;
   padding: 2rem;
   float:right;
 }
 
 .bioparagraph {
   margin-bottom: 0px;
+}
+
+.login-paragraph {
+  margin-bottom: 15px;
 }
 
 .carousel-caption {
@@ -242,6 +260,10 @@ padding: .25rem 1rem;
 /* Footer Styles
 -------------------------------------------------- */
 
+.footer-spacer {
+  padding: .75rem 3rem;
+}
+
 .subfooter {
 	padding: 20px 0 10px 5px;
 	color: #041E42;
@@ -294,6 +316,7 @@ padding: .25rem 1rem;
 	width: 100%;
 	border-bottom: 1px solid #000;
 }
+
 
 /*navbar hover function instead of click
 .dropdown:hover>.dropdown-menu {
