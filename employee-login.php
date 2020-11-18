@@ -38,17 +38,19 @@
 
       <div class="container content-padding">
         <div class="row">
-
+            <div class="col-sm-12">
+              <h2>Welcome Back</h2>
+            </div>
         </div>
         <div class="row"><!-- begin test area -->
-          <div class="col-sm-12 col-md-3">
+          <div class="col-sm-12 col-md-4">
             <img src="../riveraprojects/img/login.jpg" alt="Employee Login" class="login-img d-none d-md-block img-fluid">
           </div>
 
           <div class="col">
 
             <div class="container-fluid">
-            <h2>Welcome Back</h2>
+
             <p class="login-paragraph">Please Login for access to the employee portal. For help with login issues, please email your administrator.</p>
 
 

@@ -39,9 +39,9 @@
             <ul class="footer-links">
 
 
-              <li class="first"><strong>Graphic Design</strong></li>
+              <li class="first"><strong>Website Projects</strong></li>
 
-              <li><a href="#">Example 1</a></li>
+              <li><a href="http://www.comingsoon.riveraprojects.com/" target="_blank">Coming Soon Landing Page</a></li>
                 <li><a href="#">Example 2</a></li>
               <li><a href="#">Example 3</a></li>
                 <li><a href="#">Example 4</a></li>
@@ -55,6 +55,7 @@
                  <li><a href="index.php">Home</a></li>
                  <li><a href="design.php">Design</a></li>
                  <li><a href="Development.php">Development</a></li>
+                  <li><a href="integration.php">Integration</a></li>
                  <li><a href="colleagues.php">Colleagues</a></li>
                  <li><a href="blog.php" >Blogging Tech</a></li>
                  <li><a href="employee-login.php">Employee Login</a></li>

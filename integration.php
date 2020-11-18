@@ -50,9 +50,10 @@
             <div class="col-sm-12 col-md-4">
                 <div class="text-container">
               <a href="https://www.moodle.riveraprojects.com"><img src="../riveraprojects/img/moodle.png" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid"></a>
-              <div class="tag">
-              <!--add tag if you want it over the image -->
-              </div>
+                <!--add tag if you want it over the image
+                <div class="tag">
+                </div>
+                -->
             </div>
           </div>
           <div class="col">

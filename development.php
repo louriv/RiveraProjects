@@ -49,6 +49,29 @@
           <div class="row">
             <div class="col-sm-12 col-md-4">
                 <div class="text-container">
+              <a href="https://www.comingsoon.riveraprojects.com"><img src="../riveraprojects/img/coming-soon.png" alt="Landing Page" class="img-thumbnail d-none d-md-block img-fluid"></a>
+              <!--add tag if you want a blue banner over the image
+              <div class="tag">
+               </div>
+              -->
+            </div>
+          </div>
+          <div class="col">
+            <div class="container-fluid">
+              <h4>Coming Soon Landing Page</h4>
+              <p>A landing page, or a splash page is a page you typically see businesses using for a marketing purpose, such as advertising a product. Landing pages are simply where a user "lands" on a website. In this small project, I developed a coming soon page for a website that could serve many purposes! </p>
+              <a class="btn btn-gold" href="http://www.comingsoon.riveraprojects.com/" target="_blank">Coming Soon Landing Page</a>
+            </div>
+
+              </div>
+            </div>
+        </div>
+
+        <!-- gallery grid of websites
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-12 col-md-4">
+                <div class="text-container">
               <a href="http://prettypaperinvites.com/" target="_blank"><img src="../riveraprojects/img/pretty-paper.PNG" alt="Pretty Paper Invites" class="img-thumbnail d-none d-md-block img-fluid portfolio-items"></a>
               <div class="tag">
                 Pretty Paper Invites
@@ -74,11 +97,9 @@
 
 
             </div>
-
-
-
-
           </div>
+        -->
+
         </div>
       </div>
     </div>

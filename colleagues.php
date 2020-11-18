@@ -39,7 +39,7 @@
       <div class="container content-padding">
         <div class="row">
           <div class="col-sm-12">
-            <h2>Client Love</h2>
+            <h2>Colleagues Keep Me Grounded</h2>
             <p>I can honestly say that every single person i've worked with has presented me with a challenge. Whether i'm defining a brand or building a website feature. My clients are the reason I have developed such a passion for technology. So thank you, to my clients. You have pushed me to be better. Iron Sharpens Iron.</p>
 
 
