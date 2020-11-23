@@ -59,31 +59,21 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <div class="col-sm-8">
 
 
-    <div class="yesDisplay">
+
       <div class="container-fluid">
-        <div class="alert alert-success alert-dismissible fade show" role="alert">
-          <p style="margin-bottom: 0px;"> You have successfully logged in. Welcome to your Dashboard, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></p>
-          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button>
-</div>
+
 
         <div class="row">
-          <div class="col-sm-6">
-          <p>Welcome to the Royal Technology online portal. This is an area where employees or clients may go online to access client or company specific information. I have integrated several other technologies within this portal. You may visit the integrations by clicking the links to the left.</p>
-          <p>furthermore, you may download my Resume, submit a ticket, or change your password to test the functionality.</p>
-          <p>if you have any questions, you may email me at: louis@riveraprojects.com</p>
-          </div>
-          <div class="col">
-            <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
-
-          </div>
           <div class="col">
 
+                  <h2>Google Analytics</h2>
+                  <p>site analytics</p>
           </div>
+
         </div>
       </div>
-        </div>
+
+
 
 
 
@@ -92,8 +82,8 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="card" style="width: 18rem;">
       <div class="card-body">
 
-    <p class="card-title">Last Login: <?php $currentDateTime = date('m-d-y'); echo $currentDateTime; ?></p>
-<p>Here is a sidebar widget that can be used to display login information like above or provide other, supplemental functionality.</p>
+    <p class="card-title">This integration is done using Google Analytics to track site usage and such. Simply add a script in the footer, then use an embed code from google to use it on a custom web application.</p>
+
 
   <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>

@@ -12,6 +12,7 @@
 
               <p> I have provided 10+ years of technology consulting to clients. I am committed to innovation and improvement for each and every one of my clients across a wide variety of technology capability.</p>
               <p> <span><i class="fas fa-quote-left"></i></span> Ever since my first 'hello world', I have been an ambitious Web Developer who takes a keen interest in all kinds of technology. With a background in Design, Development & Project Management, I am always looking to stay at the forefront of cutting-edge technology. I take pride in my never ending curiosity and thirst for knowledge. I can't imagine what life is like at the end of this technology journey, however, Chief Technology Officer has a nice ring to it ;)</p>
+              
               <p><a type="button" class="btn btn-gold" rel="noopener noreferrer" href="../RiveraProjects/pdf/RiveraResume.pdf" target="_blank">Rivera Resume</a></p>
 
               <p class="icon-section">
@@ -33,6 +34,9 @@
                   <i class="fas fa-envelope-open-text"></i>
                 </a>
               </p>
+
+
+
 
 </div>
 

@@ -59,31 +59,21 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <div class="col-sm-8">
 
 
-    <div class="yesDisplay">
+
       <div class="container-fluid">
-        <div class="alert alert-success alert-dismissible fade show" role="alert">
-          <p style="margin-bottom: 0px;"> You have successfully logged in. Welcome to your Dashboard, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></p>
-          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button>
-</div>
+
 
         <div class="row">
-          <div class="col-sm-6">
-          <p>Welcome to the Royal Technology online portal. This is an area where employees or clients may go online to access client or company specific information. I have integrated several other technologies within this portal. You may visit the integrations by clicking the links to the left.</p>
-          <p>furthermore, you may download my Resume, submit a ticket, or change your password to test the functionality.</p>
-          <p>if you have any questions, you may email me at: louis@riveraprojects.com</p>
-          </div>
-          <div class="col">
-            <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
-
-          </div>
           <div class="col">
 
+                    <iframe src="https://outlook.office365.com/owa/calendar/0c684c5fc9904488a16f0a78c8edbb3f@bylight.com/4fe2ea1398074eeab9fc0a5cd4f32e0d14191551599972090951/calendar.html" width="100%" height="600" scrolling="no" frameborder="0"></iframe>
+
           </div>
+
         </div>
       </div>
-        </div>
+
+
 
 
 
@@ -92,8 +82,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
     <div class="card" style="width: 18rem;">
       <div class="card-body">
 
-    <p class="card-title">Last Login: <?php $currentDateTime = date('m-d-y'); echo $currentDateTime; ?></p>
-<p>Here is a sidebar widget that can be used to display login information like above or provide other, supplemental functionality.</p>
+    <p class="card-title">This integration is done through outlook 365. This is an example integration of how you can add a web calendar to your custom application.</p>
 
   <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>

@@ -43,7 +43,7 @@
 
               <li><a href="http://www.comingsoon.riveraprojects.com/" target="_blank">Coming Soon Landing Page</a></li>
                 <li><a href="https://www.intranet.riveraprojects.com">Company Intranet Project</a></li>
-              <li><a href="#">Example 3</a></li>
+              <li><a href="employee-login.php">Example Portal Login Page</a></li>
                 <li><a href="#">Example 4</a></li>
 
             </ul>
@@ -69,9 +69,9 @@
 
                               <li class="first"><strong>Integration Projects</strong></li>
                               <li><a href="https://www.moodle.riveraprojects.com" target="_blank" >LMS integration</a></li>
-                              <li><a href="#" >Example 2</a></li>
-                              <li><a href="#" >Example 3</a></li>
-                              <li><a href="#" >Example 4</a></li>
+                              <li><a href="employee-login.php">Portal Login</a></li>
+                              <li><a href="#">Example 3</a></li>
+                              <li><a href="#">Example 4</a></li>
 
                               <hr/>
 

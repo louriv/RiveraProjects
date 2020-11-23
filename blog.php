@@ -47,10 +47,10 @@
     <div class="col">
       <h5>What I Learned Running my own business</h5>
       <p>Running my own small business is something i have considered a key point in my career development. See how running a business can prepare you for the future, whatever that may entail.</p>
-        <p>Author: Louis A. Rivera Jr.</p>
 
 
-    <p class="space-up"><a href="#" class="small-text">Read More</a> about my journey becoming an Entrepreneur. </p>
+
+    <a href="https://www.linkedin.com/pulse/what-i-learned-from-running-my-own-business-louis-a-rivera-jr-/" class="btn btn-gold" target="_blank">Read More</a></p>
 
       </div>
 
@@ -60,9 +60,7 @@
         <a href="#">
           <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
         </a>
-        <div class="tag">
-          Blog Post
-    </div>
+
     </div>
 
 
@@ -73,6 +71,7 @@
 
 
   </div>
+  <hr/>
 </div>
 
 

@@ -59,31 +59,26 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <div class="col-sm-8">
 
 
-    <div class="yesDisplay">
+
       <div class="container-fluid">
-        <div class="alert alert-success alert-dismissible fade show" role="alert">
-          <p style="margin-bottom: 0px;"> You have successfully logged in. Welcome to your Dashboard, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></p>
-          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-    <span aria-hidden="true">&times;</span>
-  </button>
-</div>
+
 
         <div class="row">
-          <div class="col-sm-6">
-          <p>Welcome to the Royal Technology online portal. This is an area where employees or clients may go online to access client or company specific information. I have integrated several other technologies within this portal. You may visit the integrations by clicking the links to the left.</p>
-          <p>furthermore, you may download my Resume, submit a ticket, or change your password to test the functionality.</p>
-          <p>if you have any questions, you may email me at: louis@riveraprojects.com</p>
-          </div>
-          <div class="col">
-            <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
-
-          </div>
           <div class="col">
 
+            <h2>Submit a Ticket</h2>
+            <p> If you are having issues, submit a ticket below. We will get back to you shortly.</p>
+
+            <script src="https://desk.zoho.com/portal/api/feedbackwidget/555389000000156138?orgId=730922650&displayType=iframe"></script>
+  <iframe id="zsfeedbackFrame" width="890" height="570" name="zsfeedbackFrame" scrolling="no" allowtransparency="false" frameborder="0" border="0" src="https://desk.zoho.com/support/fbw?formType=AdvancedWebForm&fbwId=edbsn383778161af29273317bf524b4310e6065afd70f6be9933494cf7bd54b88dbbd&xnQsjsdp=A3ZERCxBSwnwZmTHHfGK-w$$&mode=showNewWidget&displayType=iframe"></iframe>
+
           </div>
+
+
         </div>
       </div>
-        </div>
+
+
 
 
 
@@ -91,11 +86,13 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
   <div class="col-sm-2">
     <div class="card" style="width: 18rem;">
       <div class="card-body">
+        <p class="card-title">This helpdesk is integrated with Zoho Desk. This is another integration into a custom web application.</p>
 
-    <p class="card-title">Last Login: <?php $currentDateTime = date('m-d-y'); echo $currentDateTime; ?></p>
-<p>Here is a sidebar widget that can be used to display login information like above or provide other, supplemental functionality.</p>
+        <p>to login and check tickets received, you must go to the Zoho Help Desk login by clicking the button below. </p>
 
-  <a href="#" class="btn btn-primary">Go somewhere</a>
+
+
+  <a href="https://accounts.zoho.com/signin?servicename=ZohoSupport&signupurl=https://www.zoho.com/desk/signup.html" target="_blank" class="btn btn-primary">Zoho Desk Login</a>
   </div>
 </div>
     </div>
