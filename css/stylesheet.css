@@ -88,6 +88,13 @@ p {
     display: inline;!important
   }
 
+.dash-buttons {
+  border: none;
+  border-radius: 0px 30px 30px 0px;
+  padding: 10px;
+  display: block;
+  min-width: 125px;
+}
 
 .dashboard-nav {
   width: 100%;
@@ -192,6 +199,11 @@ a.social-icons:hover {
 
 }
 
+.noDisplay{display:none;}
+.yesDisplay{display:block;}
+
+.noDisplay2{display:none;}
+.yesDisplay2{display:block;}
 
 .breadcrumb {
   background-color: #fff;

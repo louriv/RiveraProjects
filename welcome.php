@@ -50,37 +50,68 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 </div>
 
 <div class="container-fluid dashboard-nav">
+
   <div class="row">
     <div class="col-sm-2">
   <div class="btn-group-vertical">
-    <a href="password-reset.php" class="btn btn-gray btn-dash">Dashboard  </a>
-    <a href="password-reset.php" class="btn btn-gray btn-dash">Calendar </a>
+    <button id="dashboard" class="btn btn-gray btn-dash">Dashboard</button>
+    <button id="calendar" class="btn btn-gray btn-dash">Calendar</button>
+    <button id="analytics" class="btn btn-gray btn-dash">Google Analytics</button>
+    <button id="helpdesk" class="btn btn-gray btn-dash">Submit a Ticket</button>
+    <a type="button" class="btn btn-gray btn-dash" rel="noopener noreferrer" href="../RiveraProjects/pdf/RiveraResume.pdf" target="_blank">Rivera Resume</a>
     <a href="password-reset.php" class="btn btn-gray btn-dash">Reset Your Password</a>
     <a href="logout.php" class="btn btn-gray btn-dash">Sign Out of Your Account</a>
+
 </div>
 </div>
 <div class="col-sm-8">
-    <h2>Welcome to your Dashboard, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></h2>
-  <p><span><i class="fas fa-quote-left"></i></span> When you pay attention to detail, the big picture will take care of itself. -George St-Pierre</p>
 
-  <p>Design skills are few and far between. It's a must have skill if you want a consistent brand. Logos, brochures, colors, branding and fonts all define an organization. I have the knowledge and foundation to design beautiful experiences.</p>
-  <p>If you're willing to sacrifice design, you're willing to sacrifice clients.</p>
 
-    <iframe src="https://outlook.office365.com/owa/calendar/0c684c5fc9904488a16f0a78c8edbb3f@bylight.com/4fe2ea1398074eeab9fc0a5cd4f32e0d14191551599972090951/calendar.html" width="100%" height="600" scrolling="no" frameborder="0"></iframe>
+    <div class="yesDisplay">
+      <div class="container-fluid">
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+          <p style="margin-bottom: 0px;"> You have successfully logged in. Welcome to your Dashboard, <b><?php echo htmlspecialchars($_SESSION["username"]); ?></b></p>
+          <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+    <span aria-hidden="true">&times;</span>
+  </button>
+</div>
+
+        <div class="row">
+          <div class="col">
+          <h2>Important Links</h2>
+          </div>
+          <div class="col">
+            <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
+
+          </div>
+          <div class="col">
+
+          </div>
+        </div>
+      </div>
+        </div>
+
+    <div class="noDisplay">
+      <iframe src="https://outlook.office365.com/owa/calendar/0c684c5fc9904488a16f0a78c8edbb3f@bylight.com/4fe2ea1398074eeab9fc0a5cd4f32e0d14191551599972090951/calendar.html" width="100%" height="600" scrolling="no" frameborder="0"></iframe>
+
+    </div>
+
+    <div class="noDisplay">
+      <p>some other stuff for the analytics tab</p>
+    </div>
+
+
+
 
   </div>
   <div class="col-sm-2">
     <div class="card" style="width: 18rem;">
-  <div class="card-body">
-    <h5 class="card-title">Last Login</h5>
-    <?php
-    $currentDateTime = date('m-d-y H:i');
+      <div class="card-body">
 
-    echo $currentDateTime;
-?>
+    <p class="card-title">Last Login: <?php $currentDateTime = date('m-d-y H:i'); echo $currentDateTime; ?></p>
 
-    <p class="card-text">With supporting text below as a natural lead-in to additional content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+
+  <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
     </div>
