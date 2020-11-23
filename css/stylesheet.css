@@ -78,6 +78,23 @@ p {
   flex: 1;
 }
 
+.btn-group-vertical .btn, .btn-group-vertical .btn-group {
+    width: 100%;
+    border-radius: 0px 30px 30px 0px;!important
+
+  }
+
+  .btn-group-vertical {
+    display: inline;!important
+  }
+
+
+.dashboard-nav {
+  width: 100%;
+  padding-left: 0px;!important
+  padding-right: 0px;!important
+}
+
 /* logo styles */
 .logo {
   padding-left: 0px;
@@ -191,6 +208,12 @@ a.social-icons:hover {
   background-color: #d7c478;;
   border-color: #d7c478;;
 
+}
+
+.btn-gray {
+  color: #041E42;
+  background-color: #f5f5f5;
+  border-color: #f5f5f5;
 }
 
 .bio {

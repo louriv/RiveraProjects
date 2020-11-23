@@ -29,7 +29,7 @@
     <nav aria-label="breadcrumb">
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/" class="breadlinks">Home</a></li>
-        <li class="breadcrumb-item active" aria-current="page">Graphic Design</li>
+        <li class="breadcrumb-item active" aria-current="page">Colleagues</li>
   </ol>
 </nav>
 </div>

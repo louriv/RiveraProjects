@@ -20,10 +20,10 @@
             <ul class="footer-links">
 
 
-              <li class="first"><strong>Reach Out</strong></li>
+              <li class="first"><strong>Employee Portal</strong></li>
 
-              <li><a href="#"><i class="fas fa-envelope-open-text"></i> info@example.com</a></li>
-                <li><a href="#"> <i class="fas fa-phone-square"></i> 800.123.4567</a></li>
+              <li><a href="employee-register.php">Employee Registration</a></li>
+                <li><a href="employee-login.php">Employee Login</a></li>
 <hr/>
                 <li class="first"><strong>Policies</strong></li>
                 <li><a href="#">Privacy Policy</a></li>
@@ -58,7 +58,7 @@
                   <li><a href="integration.php">Integration</a></li>
                  <li><a href="colleagues.php">Colleagues</a></li>
                  <li><a href="blog.php" >Blogging Tech</a></li>
-                 <li><a href="employee-login.php">Employee Login</a></li>
+
 
             </ul>
 
