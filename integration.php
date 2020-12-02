@@ -42,15 +42,17 @@
             <h2>Enabling Expansion Through Technology</h2>
             <p>Technology integration is pivotal for mission-crtical function and providing the opportunity to expand your organizations technological capabilities.</p>
             <p>Whether its implementing a training platform, a careers function, a helpdesk, or even project management software. My expertise will guide an organization to optimal, cost-saving solutions for scaling efficiently.</p>
-            <p>To show these integration skills, I have enabled the portal login feature of this site. . Within the portal I have integrated several popular technologies, including a calendar, a helpdesk ticketing system, a password reset feature, and an LMS training platform.</p>
+            <p>To show these integration skills, I have enabled the portal login feature of this site. Within the portal I have integrated several popular technologies, including a calendar, a helpdesk ticketing system, a password reset feature, and an LMS training platform.</p>
             <div class="alert alert-success" role="alert">
               <h4 class="alert-heading">Portal Login Instructions</h4>
-              <p>In order to login to this portal, users may login using the "Employee Login" link at the top or in the footer with the following credentials:</p>
-              <p>Username: testing<br/>Password: testing</p>
+              <p>In order to login to the portal <u>built within this site</u>, users may login using the "Employee Login" link at the top or the url below with the following credentials:</p>
+              <p><a href="employee-login.php">Royal Technology Employee Portal</a><br/>Username: testing<br/>Password: testing</p>
 
             </div>
             </div>
         </div>
+
+              <hr/>
 
         <div class="container">
           <div class="row">
@@ -68,10 +70,12 @@
 
               <h4>LMS Integration Project</h4>
               <p>An "LMS" or a Learning Management System, is a platform that is designed to teach or train users on anything from company policies to learning a new skill. The following platform is an open source platform, moodle which I implemented and modified to be an online teaching environment. Teachers may login, create courses, and grade student work!</p>
-              <p><a class="btn btn-gold" href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Integration</a></p>
+<p><a class="btn btn-gold" href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Integration</a></p>
               <div class="alert alert-secondary" role="alert">
                 <h4>LMS Login Instructions</h4>
-                <p>In order to login to the LMS, users may login using the "Moodle Integration" button above. Alternatively, you may log into this portal and find a link in the navigation.</p>
+                <p>In order to login to the <u>external LMS</u>, users may login using the "Moodle Integration" button above. Alternatively, you may log into this portal and find a link in the navigation.</p>
+
+
                 <p>Username: trainingtest <br/>Password: Training-Test1</p>
               </div>
 
@@ -80,7 +84,7 @@
               </div>
             </div>
 
-            <hr/>
+
 
             <!--Platform integration project 2
             <div class="row">

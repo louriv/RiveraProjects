@@ -87,38 +87,7 @@
               </div>
         </div>
 
-        <!-- gallery grid of websites
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-12 col-md-4">
-                <div class="text-container">
-              <a href="http://prettypaperinvites.com/" target="_blank"><img src="../riveraprojects/img/pretty-paper.PNG" alt="Pretty Paper Invites" class="img-thumbnail d-none d-md-block img-fluid portfolio-items"></a>
-              <div class="tag">
-                Pretty Paper Invites
-              </div>
-            </div>
-          </div>
-          <div class="col-sm-12 col-md-4">
-              <div class="text-container">
-            <a href="https://thegardensplaza.com/" target="_blank"><img src="../riveraprojects/img/gardens-plaza.PNG" alt="The Gardens Plaza" class="img-thumbnail d-none d-md-block img-fluid portfolio-items"></a>
-            <div class="tag">
-              The Gardens Plaza
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-12 col-md-4">
-            <div class="text-container">
-          <a href="https://www.cc.riveraprojects.com/" target="_blank"><img src="../riveraprojects/img/city-connect.PNG" alt="City Connect" class="img-thumbnail d-none d-md-block img-fluid portfolio-items"></a>
-          <div class="tag">
-            City Connect
-          </div>
-        </div>
-      </div>
-
-
-            </div>
-          </div>
-        -->
+      
 
         </div>
       </div>

@@ -358,6 +358,18 @@ padding: .25rem 1rem;
 	border-bottom: 1px solid #000;
 }
 
+.blog-white-bg {
+  padding: 15px;
+}
+
+.blog-gray-bg {
+  padding: 15px;
+  background-color: #f5f5f5;!important
+}
+
+.blog-img {
+  max-width: 210px;
+}
 
 /*navbar hover function instead of click
 .dropdown:hover>.dropdown-menu {

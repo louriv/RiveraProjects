@@ -51,7 +51,7 @@
               <div class="row text-center">
 
                 <!--Grid column-->
-                <div class="col-md-4 mb-md-0 mb-5">
+                <div class="col-md-6 mb-md-0 mb-5">
 
                   <div class="testimonial">
                     <!--Avatar-->
@@ -77,7 +77,7 @@
                 <!--Grid column-->
 
                 <!--Grid column-->
-                <div class="col-md-4 mb-md-0 mb-5">
+                <div class="col-md-6 mb-md-0 mb-5">
 
                   <div class="testimonial">
                     <!--Avatar-->
@@ -103,7 +103,7 @@
                 <!--Grid column-->
 
                 <!--Grid column-->
-                <div class="col-md-4">
+                <div class="col-md-6">
 
                   <div class="testimonial">
                     <!--Avatar-->
