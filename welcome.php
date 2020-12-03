@@ -72,10 +72,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
           <div class="col-sm-6">
           <p>Welcome to the Royal Technology online portal. This is an area where employees or clients may go online to access client or company specific information. I have integrated several other technologies within this portal. You may visit the integrations by clicking the links to the left.</p>
           <p>furthermore, you may download my Resume, submit a ticket, or change your password to test the functionality.</p>
-          <p>if you have any questions, you may email me at: louis@riveraprojects.com</p>
+          <p>if you have any questions, you may email me at: lrivera@royaltech.io</p>
           </div>
           <div class="col">
-            <img src="../riveraprojects/img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
+            <img src="../img/computer.jpg" alt="Website Launch" class="img-thumbnail img-fluid">
 
           </div>
           <div class="col">

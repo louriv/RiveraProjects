@@ -58,7 +58,7 @@
           <div class="row">
             <div class="col-sm-12 col-md-4">
                 <div class="text-container">
-              <a href="https://www.moodle.riveraprojects.com"><img src="../riveraprojects/img/moodle.png" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid"></a>
+              <a href="https://www.moodle.riveraprojects.com"><img src="../img/moodle.png" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid"></a>
                 <!--add tag if you want it over the image
                 <div class="tag">
                 </div>

@@ -2,7 +2,7 @@
   <div class="container indexcontent">
         <div class="row">
           <div class="col">
-            <img src="../riveraprojects/img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block img-fluid">
+            <img src="../img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block img-fluid">
           </div>
           <div class="col-md-9 col-sm-12">
 
@@ -34,11 +34,11 @@
                   <i class="fab fa-linkedin"></i>
                 </a>
                 &nbsp;
-                <a class="social-icons" href="https://baltimoredesign.slack.com/" target="_blank">
-                  <i class="fab fa-slack" aria-hidden="true"></i>
+                <a class="social-icons" href="https://www.instagram.com/lourivv/" target="_blank">
+                  <i class="fab fa-instagram" aria-hidden="true"></i>
                 </a>
                 &nbsp;
-                <a class="social-icons" href="mailto:https://baltimoredesign.slack.com/" target="_blank">
+                <a class="social-icons" href="mailto:lrivera@royaltech.io" target="_blank">
                   <i class="fas fa-envelope-open-text"></i>
                 </a>
               </p>

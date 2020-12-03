@@ -134,7 +134,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         </div>
         <div class="row"><!-- begin test area -->
           <div class="col-sm-12 col-md-4">
-            <img src="../riveraprojects/img/login.jpg" alt="Employee Login" class="login-img d-none d-md-block img-fluid">
+            <img src="../img/login.jpg" alt="Employee Login" class="login-img d-none d-md-block img-fluid">
           </div>
 
           <div class="col">

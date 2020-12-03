@@ -3,7 +3,7 @@
 	   <div class="row">
        <div class="col">
        <a rel="home" href="/" title="Louis A. Rivera jr.">
-         <img src="../riveraprojects/img/royal-technology.png" class="img-fluid logo"></a>
+         <img src="../img/royal-technology.png" class="img-fluid logo"></a>
        </div>
 
        <div class="col">
@@ -29,7 +29,7 @@
 
            &nbsp;
 
-           <a class="social-icons" href="mailto:louis@riveraprojects.com" target="_blank">
+           <a class="social-icons" href="mailto:lrivera@royaltech.io" target="_blank">
              <i class="fas fa-envelope-open-text"></i>
            </a>
 

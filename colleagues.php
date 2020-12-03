@@ -56,7 +56,7 @@
                   <div class="testimonial">
                     <!--Avatar-->
                     <div class="avatar mx-auto">
-                      <img src="../riveraprojects/img/jesse.jpg" class="rounded-circle z-depth-1 img-fluid">
+                      <img src="../img/jesse.jpg" class="rounded-circle z-depth-1 img-fluid">
                     </div>
                     <!--Content-->
                     <h4 class="font-weight-bold dark-grey-text mt-4">Jesse Snader</h4>
@@ -82,7 +82,7 @@
                   <div class="testimonial">
                     <!--Avatar-->
                     <div class="avatar mx-auto">
-                      <img src="../riveraprojects/img/rachel.jpg" class="rounded-circle z-depth-1 img-fluid">
+                      <img src="../img/rachel.jpg" class="rounded-circle z-depth-1 img-fluid">
                     </div>
                     <!--Content-->
                     <h4 class="font-weight-bold dark-grey-text mt-4">Rachel Corban</h4>
@@ -108,7 +108,7 @@
                   <div class="testimonial">
                     <!--Avatar-->
                     <div class="avatar mx-auto">
-                      <img src="../riveraprojects/img/joe.jpg" class="rounded-circle z-depth-1 img-fluid">
+                      <img src="../img/joe.jpg" class="rounded-circle z-depth-1 img-fluid">
                     </div>
                     <!--Content-->
                     <h4 class="font-weight-bold dark-grey-text mt-4">Joe Fischer</h4>

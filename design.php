@@ -57,7 +57,7 @@
               <img src="img/204-logo.jpg" class="img-fluid" alt="204 Clothing logo">
             </div>
             <div class="col-xs-12 col-sm-3">
-              <img src="img/scubadelphia.jpg" class="img-fluid" alt="Scubadelphia Logo">
+              <img src="img/Scubadelphia.jpg" class="img-fluid" alt="Scubadelphia Logo">
             </div>
             <div class="col-xs-12 col-sm-3">
               <img src="img/gardensplaza-logo.jpg" class="img-fluid" alt="Gardens Plaza Logo">

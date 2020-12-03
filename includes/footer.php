@@ -126,7 +126,7 @@
                     <i class="fab fa-instagram" aria-hidden="true"></i>
                   </a>
                   &nbsp;
-                  <a class="social-icons" href="mailto:louis@riveraprojects.com" target="_blank">
+                  <a class="social-icons" href="mailto:lrivera@royaltech.io" target="_blank">
                     <i class="fas fa-envelope-open-text"></i>
                   </a>
 

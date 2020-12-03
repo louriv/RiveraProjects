@@ -85,7 +85,7 @@
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
         <div class="text-container">
           <a href="https://www.youracclaim.com/badges/83d5fa10-b083-4611-9547-0dab384d5824?source=linked_in_profile" target="_blank">
-            <img src="../riveraprojects/img/SecPlusLogo.jpg" alt="Security Plus Certified" class="img-thumbnail img-fluid blog-img">
+            <img src="../img/secpluslogo.jpg" alt="Security Plus Certified" class="img-thumbnail img-fluid blog-img">
           </a>
 
       </div>
@@ -108,7 +108,7 @@
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
       <div class="text-container">
         <a href="https://www.udemy.com/certificate/UC-GEDS1MRZ/" target="_blank">
-          <img src="../riveraprojects/img/aws-concepts.jpg" alt="Amazon Web Services Certificate" class="img-thumbnail img-fluid blog-img">
+          <img src="../img/aws-concepts.jpg" alt="Amazon Web Services Certificate" class="img-thumbnail img-fluid blog-img">
         </a>
 
     </div>
@@ -131,7 +131,7 @@
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
       <div class="text-container">
         <a href="https://www.udemy.com/certificate/UC-GEP4IZQR/" target="_blank">
-          <img src="../riveraprojects/img/intro-to-linux.jpg" alt="Introduction to Linux Certificate" class="img-thumbnail img-fluid blog-img">
+          <img src="../img/intro-to-linux.jpg" alt="Introduction to Linux Certificate" class="img-thumbnail img-fluid blog-img">
         </a>
 
     </div>
@@ -155,7 +155,7 @@
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
       <div class="text-container">
         <a href="#">
-          <img src="../riveraprojects/img/diploma.jpg" alt="Graduation Picture" class="img-thumbnail img-fluid blog-img">
+          <img src="../img/diploma.jpg" alt="Graduation Picture" class="img-thumbnail img-fluid blog-img">
         </a>
 
     </div>
@@ -180,7 +180,7 @@
       <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
         <div class="text-container">
           <a href="#">
-            <img src="../riveraprojects/img/treasurer-award.jpg" alt="Picture with the former State Treasurer of New Jersey" class="img-thumbnail img-fluid blog-img">
+            <img src="../img/treasurer-award.jpg" alt="Picture with the former State Treasurer of New Jersey" class="img-thumbnail img-fluid blog-img">
           </a>
 
       </div>
@@ -204,7 +204,7 @@
     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
       <div class="text-container">
         <a href="#">
-          <img src="../riveraprojects/img/rp-1.jpg" alt="Rivera Projects Branding" class="img-thumbnail img-fluid blog-img">
+          <img src="../img/rp-1.jpg" alt="Rivera Projects Branding" class="img-thumbnail img-fluid blog-img">
         </a>
 
     </div>

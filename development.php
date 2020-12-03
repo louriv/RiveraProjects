@@ -64,7 +64,7 @@
           <div class="col-sm-12 col-md-4  space-up">
               <div class="text-container">
             <a href="http://www.comingsoon.riveraprojects.com" target="
-            "><img src="../riveraprojects/img/coming-soon.png" alt="Landing Page" class="img-thumbnail d-none d-md-block img-fluid"></a>
+            "><img src="../img/coming-soon.PNG" alt="Landing Page" class="img-thumbnail d-none d-md-block img-fluid"></a>
             <!--add tag if you want a blue banner over the image
             <div class="tag">
              </div>
@@ -96,7 +96,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-4  space-up">
               <div class="text-container">
-            <a href="https://www.intranet.riveraprojects.com"><img src="../riveraprojects/img/intranet.png" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
+            <a href="https://www.intranet.riveraprojects.com"><img src="../img/intranet.PNG" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
             <!--add tag if you want a blue banner over the image
             <div class="tag">
              </div>
@@ -129,7 +129,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-4  space-up">
               <div class="text-container">
-            <a href="https://thegardensplaza.com/" target="_blank"><img src="../riveraprojects/img/gardens-plaza.png" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
+            <a href="https://thegardensplaza.com/" target="_blank"><img src="../img/gardens-plaza.PNG" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
             <!--add tag if you want a blue banner over the image
             <div class="tag">
              </div>
@@ -163,7 +163,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-4  space-up">
               <div class="text-container">
-            <a href="https://thegardensplaza.com/" target="_blank"><img src="../riveraprojects/img/rt-screenshot.png" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
+            <a href="https://thegardensplaza.com/" target="_blank"><img src="../img/rt-screenshot.PNG" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
             <!--add tag if you want a blue banner over the image
             <div class="tag">
              </div>

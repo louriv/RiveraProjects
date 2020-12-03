@@ -66,8 +66,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
         <div class="row">
           <div class="col">
 
-                    <iframe src="https://outlook.office365.com/owa/calendar/0c684c5fc9904488a16f0a78c8edbb3f@bylight.com/4fe2ea1398074eeab9fc0a5cd4f32e0d14191551599972090951/calendar.html" width="100%" height="600" scrolling="no" frameborder="0"></iframe>
-
+                
           </div>
 
         </div>

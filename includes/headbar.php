@@ -8,7 +8,7 @@
           <span class="text-white text-right">&#8226;</span>
           <span class="text-white text-right">Webmaster</span>
             <span class="text-white text-right">&#8226;</span>
-            <span><a class="text-white text-right" href="../RiveraProjects/employee-login.php">Employee Login</a></span>
+            <span><a class="text-white text-right" href="employee-login.php">Employee Login</a></span>
 
 
 
