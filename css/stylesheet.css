@@ -364,7 +364,8 @@ padding: .25rem 1rem;
 
 .blog-gray-bg {
   padding: 15px;
-  background-color: #f5f5f5;!important
+  background-color: #f5f5f5!important;
+  border-radius: 20px;
 }
 
 .blog-img {

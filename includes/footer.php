@@ -25,16 +25,48 @@
               <li><a href="employee-register.php">Employee Registration</a></li>
                 <li><a href="employee-login.php">Employee Login</a></li>
 <hr/>
-                <li class="first"><strong>Policies</strong></li>
-                <li><a href="#">Privacy Policy</a></li>
+                <li class="first"><strong>Read This</strong></li>
+                <!--<li><a href="#">Privacy Policy</a></li>
                   <li><a href="#">Terms & Use</a></li>
                   <li><a href="#">Data & Cookie use</a></li>
+                -->
+                <!-- Button trigger modal -->
+              <li>
+                <button type="button" class="btn btn-gold img-fluid" data-toggle="modal" data-target="#exampleModal">
+                  Site Disclaimer
+                </button>
+              </li>
+                <!-- Modal -->
+                <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                  <div class="modal-dialog" role="document">
+                    <div class="modal-content">
+                      <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel" style="color: #041e42!important">User Information, Policies and Data</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                          <span aria-hidden="true">&times;</span>
+                        </button>
+                      </div>
+                      <div class="modal-body">
+                        <p style="color: #041e42!important">Louis A. Rivera Jr. is not held responsible or liable for any information you input on this site. This includes account registration for the portal. Creating an account is the responsibility of the user and there is no current functionality to delete accounts. Should you wish to delete an account, please email: louis@riveraprojects.com</p>
+                        <p style="color: #041e42!important"> Google Analytics is used on this site for behavior purposes, usage trends and demonstration of my ability to integrate technology services to websites. Using this website means you agree to have your usage on this site accounted for. </p>
+                        <p style="color: #041e42!important">This website was written using several technologies including: HTML, CSS, Javascript, PHP, Bootstrap 4.1, jQuery, FontAwesome, Google Analytics, and Github via GitKraken for version control. This site was developed by me and is free of use. To download all site assets, please see my github repository.</p>
+                        <p style="color: #041e42!important">CompTIA is a trademark of CompTIA. I am authorized to display CompTIA and its badges per my usage agreement with them. Taking, modifying and reusing any of the CompTIA digital assets without permission is stricly prohibited.</p>
+                        <p style="color: #041e42!important">Any general questions or concerns can be directed to: Louis@riveraprojects.com</p>
 
+                      </div>
+                      <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" onclick="window.location.href='https://www.github.com/lourivv';">Github Repository</button>
+
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                  </div>
+                </div>
 
             </ul>
           </div>
 
-          <div class="col-3">
+          <div class="col-3 d-none d-md-block">
 
             <ul class="footer-links">
 
@@ -42,9 +74,13 @@
               <li class="first"><strong>Website Projects</strong></li>
 
               <li><a href="http://www.comingsoon.riveraprojects.com/" target="_blank">Coming Soon Landing Page</a></li>
-                <li><a href="https://www.intranet.riveraprojects.com">Company Intranet Project</a></li>
-              <li><a href="employee-login.php">Example Portal Login Page</a></li>
-                <li><a href="#">Example 4</a></li>
+                <li><a href="https://www.intranet.riveraprojects.com" target="_blank">Company Intranet Project</a></li>
+              <li><a href="employee-login.php">Example Login Page</a></li>
+              <li><a href="employee-register.php">Example Registration Page</a></li>
+                <li><a href="https://cc.riveraprojects.com" target="_blank">Master's Capstone - City Connect Website</a></li>
+                <li><a href="http://prettypaperinvites.com/" target="_blank">Client Site - Pretty Paper Invites</a></li>
+                <li><a href="https://thegardensplaza.com/" target="_blank">Client Site - The Gardens Plaza</a></li>
+
 
             </ul>
           </div>
@@ -70,8 +106,9 @@
                               <li class="first"><strong>Integration Projects</strong></li>
                               <li><a href="https://www.moodle.riveraprojects.com" target="_blank" >LMS integration</a></li>
                               <li><a href="employee-login.php">Portal Login</a></li>
-                              <li><a href="#">Example 3</a></li>
-                              <li><a href="#">Example 4</a></li>
+                              <li><a href="blog.php">Example Company Blog</a></li>
+                              <li><a href="blog-riveraprojects.php"> Example Blog Post Integration</a></li>
+
 
                               <hr/>
 
@@ -85,11 +122,11 @@
                     <i class="fab fa-linkedin"></i>
                   </a>
                   &nbsp;
-                  <a class="social-icons" href="https://baltimoredesign.slack.com/" target="_blank">
-                    <i class="fab fa-slack" aria-hidden="true"></i>
+                  <a class="social-icons" href="https://www.instagram.com/lourivv/" target="_blank">
+                    <i class="fab fa-instagram" aria-hidden="true"></i>
                   </a>
                   &nbsp;
-                  <a class="social-icons" href="mailto:https://baltimoredesign.slack.com/" target="_blank">
+                  <a class="social-icons" href="mailto:louis@riveraprojects.com" target="_blank">
                     <i class="fas fa-envelope-open-text"></i>
                   </a>
 

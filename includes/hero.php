@@ -4,16 +4,24 @@
           <div class="col">
             <img src="../riveraprojects/img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block img-fluid">
           </div>
-          <div class="col-9">
+          <div class="col-md-9 col-sm-12">
 
             <h2>Oh, Hello. Nice to Finally Meet.</h2>
 
 
 
-              <p> I have provided 10+ years of technology consulting to clients. I am committed to innovation and improvement for each and every one of my clients across a wide variety of technology capability.</p>
-              <p> <span><i class="fas fa-quote-left"></i></span> Ever since my first 'hello world', I have been an ambitious Web Developer who takes a keen interest in all kinds of technology. With a background in Design, Development & Project Management, I am always looking to stay at the forefront of cutting-edge technology. I take pride in my never ending curiosity and thirst for knowledge. I can't imagine what life is like at the end of this technology journey, however, Chief Technology Officer has a nice ring to it ;)</p>
-              
-              <p><a type="button" class="btn btn-gold" rel="noopener noreferrer" href="../RiveraProjects/pdf/RiveraResume.pdf" target="_blank">Rivera Resume</a></p>
+
+              <p> <span><i class="fas fa-quote-left"></i></span> Ever since my first <u>'hello world'</u>, I have been an ambitious Web Developer who takes a keen interest in all kinds of technology. With a background in Design, Development & Project Management, I am always looking to stay at the forefront of cutting-edge technology. I take pride in my never ending curiosity and thirst for knowledge. So far I have provided 10+ years of technology consulting to clients and employers alike. I am committed to innovation and improvement for each and every one of my clients across a wide variety of technology capability. I can't imagine what life is like at the end of this technology journey, however, Chief Technology Officer has a nice ring to it ;)</p>
+
+              <p>Now that you know a little about me, please take a look at my important site disclaimer before you check out the rest of my site. </p>
+
+              <button type="button" class="btn btn-gold" data-toggle="modal" data-target="#exampleModal">
+                Click Me - No but seriously
+              </button>
+              <p></p>
+              <p>Now that we got that over with, enjoy the site! Head on over to my <a href="blog.php">blog</a> to see what i've been up to over the years, including some pretty cool certificates. Resume is available upon request at: louis@riveraprojects.com</p>
+
+
 
               <p class="icon-section">
                 <b>Louis A. Rivera Jr.</b>

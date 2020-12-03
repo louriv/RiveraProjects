@@ -44,15 +44,40 @@
       </div>
     </div>
 
+<!--
+    <div class="row blog-gray-bg">
+      <div class="col-xs-12 col-sm-12 col-md-7">
+        <h5>Reflection - Backgound and Goals for 2021</h5>
+        <p>December 2, 2020</p>
+        <p>Get to know a little more about my background in design and development. No journey is ever a straight path. </p>
+
+
+
+      <a href="#" class="btn btn-gold" disabled>Coming Soon</a></p>
+
+        </div>
+
+
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
+        <div class="text-container">
+          <a href="https://www.youracclaim.com/badges/83d5fa10-b083-4611-9547-0dab384d5824?source=linked_in_profile" target="_blank">
+            <img src="../riveraprojects/img/SecPlusLogo.jpg" alt="Security Plus Certified" class="img-thumbnail img-fluid blog-img">
+          </a>
+
+      </div>
+    </div>
+  </div>
+-->
+
     <div class="row blog-white-bg">
-      <div class="col-sm-7">
-        <h5>Certification - CompTIA Security+ CE</h5>
+      <div class="col-xs-12 col-sm-12 col-md-7">
+        <h5>Certificate - CompTIA<sup>TM</sup> Security+ CE</h5>
         <p>July 24, 2020</p>
         <p>Becoming a cyber security professional is a big undertaking which will provide a tremendous value in the technology world. It also happened to be a big milestone in my career. Learn about my certification experience. I am certified through CompTIA.</p>
 
 
 
-      <a href="#" class="btn btn-gold">Read More</a></p>
+      <a href="https://www.youracclaim.com/badges/83d5fa10-b083-4611-9547-0dab384d5824?source=linked_in_profile" class="btn btn-gold" target="_blank">View Certficate</a></p>
 
         </div>
 
@@ -68,14 +93,61 @@
   </div>
 
   <div class="row blog-gray-bg">
-    <div class="col-sm-7">
+    <div class="col-xs-12 col-sm-12 col-md-7">
+      <h5>Certificate - AWS Concepts</h5>
+      <p>July 10, 2018</p>
+      <p>I completed a brief, hour long course on AWS concepts. Familiarity with AWS is useful for many reasons. I took this course to help bridge my knowledge gap of web application development through AWS.</p>
+
+
+
+    <a href="https://www.udemy.com/certificate/UC-GEDS1MRZ/" class="btn btn-gold" target="_blank">View Certificate</a></p>
+
+      </div>
+
+
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
+      <div class="text-container">
+        <a href="https://www.udemy.com/certificate/UC-GEDS1MRZ/" target="_blank">
+          <img src="../riveraprojects/img/aws-concepts.jpg" alt="Amazon Web Services Certificate" class="img-thumbnail img-fluid blog-img">
+        </a>
+
+    </div>
+  </div>
+</div>
+
+  <div class="row blog-white-bg">
+    <div class="col-xs-12 col-sm-12 col-md-7">
+      <h5>Certificate - Introduction to Linux</h5>
+      <p>April 23, 2018</p>
+      <p>I completed a brief, several hour long course on linux fundamentals. I am familiar with 3 versions of linux including Red Hat Enterprise, CentOS, and Ubuntu for web application development and web server management.</p>
+
+
+
+    <a href="https://www.udemy.com/certificate/UC-GEP4IZQR/" class="btn btn-gold" target="_blank">View Certificate</a></p>
+
+      </div>
+
+
+    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
+      <div class="text-container">
+        <a href="https://www.udemy.com/certificate/UC-GEP4IZQR/" target="_blank">
+          <img src="../riveraprojects/img/intro-to-linux.jpg" alt="Introduction to Linux Certificate" class="img-thumbnail img-fluid blog-img">
+        </a>
+
+    </div>
+  </div>
+</div>
+
+
+  <div class="row blog-gray-bg">
+    <div class="col-xs-12 col-sm-12 col-md-7">
       <h5>Milestone - Gaining my Master's Degree</h5>
       <p>December 15, 2017</p>
       <p>Going back to school wasn't something I was always interested in. However, once I found my passion in technology I knew that was the route I wanted to take. Learn more about my M.S. Information Technology program from Southern New Hampshire University.</p>
 
 
 
-    <a href="#" class="btn btn-gold">Read More</a></p>
+    <a href="#" class="btn btn-gold" disabled>Coming Soon</a></p>
 
       </div>
 
@@ -90,15 +162,17 @@
   </div>
 </div>
 
+
+
     <div class="row blog-white-bg">
-      <div class="col-sm-7">
+      <div class="col-xs-12 col-sm-12 col-md-7">
         <h5>Reflection - Winning the Treasurer's award</h5>
         <p>September 22, 2017</p>
         <p>I have been lucky enough to have my work recognized by the State of New Jersey. The following article reflect on the hardwork, accomplishments, and lessons learned.</p>
 
 
 
-      <a href="#" class="btn btn-gold">Read More</a></p>
+      <a href="#" class="btn btn-gold" disabled>Coming Soon</a></p>
 
         </div>
 
@@ -115,7 +189,7 @@
 
 
   <div class="row blog-gray-bg">
-    <div class="col-sm-7">
+    <div class="col-xs-12 col-sm-12 col-md-7">
       <h5>Reflection - What I Learned Running my own business</h5>
       <p>June 16, 2016</p>
       <p>Running my own small business is something I have considered a key point in my career development. The following articles reflects not only my business experience, but how doing so shaped many skills I use today.</p>

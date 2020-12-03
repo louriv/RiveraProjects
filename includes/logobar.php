@@ -23,13 +23,13 @@
 
            &nbsp;
 
-           <a class="social-icons" href="https://baltimoredesign.slack.com/" target="_blank">
-             <i class="fab fa-slack" aria-hidden="true"></i>
+           <a class="social-icons" href="https://www.instagram.com/lourivv/" target="_blank">
+             <i class="fab fa-instagram" aria-hidden="true"></i>
            </a>
 
            &nbsp;
 
-           <a class="social-icons" href="mailto:https://baltimoredesign.slack.com/" target="_blank">
+           <a class="social-icons" href="mailto:louis@riveraprojects.com" target="_blank">
              <i class="fas fa-envelope-open-text"></i>
            </a>
 
@@ -40,9 +40,10 @@
 
 
          <div id="google_translate_element" class="d-none d-md-block" style="clear:both; float: right; position: relative;"></div>
-         <span class="float-right disclaimer">
-           <a href="#" class="hidden-xs hidden-sm">Disclaimer</a>
+        <!-- <span class="float-right disclaimer">
+           <button type="button" href="#" class="hidden-xs hidden-sm" data-toggle="modal" data-target="#exampleModal">Disclaimer</a>
          </span>
+       -->
 
        </div> <!-- col -->
      </div> <!-- row -->
