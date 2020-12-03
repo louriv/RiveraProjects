@@ -37,6 +37,9 @@
     <li class="nav-item">
       <a class="nav-link" href="integration.php">Integration</a>
     </li>
+    <li class="nav-item">
+      <a class="nav-link" href="technology.php">Technology</a>
+    </li>
       <li class="nav-item">
         <a class="nav-link" href="colleagues.php">Colleagues</a>
       </li>

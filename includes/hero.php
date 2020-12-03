@@ -19,7 +19,7 @@
                 Click Me - No but seriously
               </button>
               <p></p>
-              <p>Now that we got that over with, enjoy the site! Head on over to my <a href="blog.php">blog</a> to see what i've been up to over the years, including some pretty cool certificates. Resume is available upon request at: louis@riveraprojects.com</p>
+              <p>Now that we got that over with, enjoy the site! You can head on over to my <a href="blog.php">blog</a> to see what i've been up to over the years, including some pretty cool certificates. You could aslo head to <a href="technology.php">Technology</a> to see what I have to offer. My Resume is available upon request at: louis@riveraprojects.com</p>
 
 
 
