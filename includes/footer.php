@@ -47,11 +47,11 @@
                         </button>
                       </div>
                       <div class="modal-body">
-                        <p style="color: #041e42!important">Louis A. Rivera Jr. is not held responsible or liable for any information you input on this site. This includes account registration for the portal. Creating an account is the responsibility of the user and there is no current functionality to delete accounts. Should you wish to delete an account, please email: louis@riveraprojects.com</p>
+                        <p style="color: #041e42!important">Louis A. Rivera Jr. is not held responsible or liable for any information you input on this site. This includes account registration for the portal. Creating an account is the responsibility of the user and there is no current functionality to delete accounts. Should you wish to delete an account, please email: lrivera@royaltech.io</p>
                         <p style="color: #041e42!important"> Google Analytics is used on this site for behavior purposes, usage trends and demonstration of my ability to integrate technology services to websites. Using this website means you agree to have your usage on this site accounted for. </p>
                         <p style="color: #041e42!important">This website was written using several technologies including: HTML, CSS, Javascript, PHP, Bootstrap 4.1, jQuery, FontAwesome, Google Analytics, and Github via GitKraken for version control. This site was developed by me and is free of use. To download all site assets, please see my github repository.</p>
                         <p style="color: #041e42!important">CompTIA is a trademark of CompTIA. I am authorized to display CompTIA and its badges per my usage agreement with them. Taking, modifying and reusing any of the CompTIA digital assets without permission is stricly prohibited.</p>
-                        <p style="color: #041e42!important">Any general questions or concerns can be directed to: Louis@riveraprojects.com</p>
+                        <p style="color: #041e42!important">Any general questions or concerns can be directed to: lrivera@royaltech.io</p>
 
                       </div>
                       <div class="modal-footer">

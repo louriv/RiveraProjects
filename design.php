@@ -36,7 +36,7 @@
 </div>
 </div>
 
-      <div class="container content-padding">
+      <div class="container">
         <div class="row">
           <div class="col-sm-12">
             <h2>Creating Beautiful Branding</h2>
@@ -53,32 +53,32 @@
 
         <div class="container">
           <div class="row">
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 d-flex justify-content-center">
               <img src="img/204-logo.jpg" class="img-fluid" alt="204 Clothing logo">
             </div>
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 d-flex justify-content-center">
               <img src="img/Scubadelphia.jpg" class="img-fluid" alt="Scubadelphia Logo">
             </div>
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 d-flex justify-content-center">
               <img src="img/gardensplaza-logo.jpg" class="img-fluid" alt="Gardens Plaza Logo">
             </div>
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 d-flex justify-content-center">
               <img src="img/riveraprojects-logo.png" class="img-fluid" alt="Rivera Projects Logo">
             </div>
           </div>
           <br/>
           <!-- row 2 logo images -->
           <div class="row">
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 d-flex justify-content-center">
               <img src="img/modishmuse.jpg" class="img-fluid" alt="Modish Muse Logo">
             </div>
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 d-flex justify-content-center">
               <img src="img/teama-logo.jpg" class="img-fluid" alt="Team A Logo">
             </div>
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 d-flex justify-content-center">
               <img src="img/sj-marketing.jpg" class="img-fluid" alt="SJ Marketing">
             </div>
-            <div class="col-xs-12 col-sm-3">
+            <div class="col-xs-12 col-sm-3 d-flex justify-content-center">
               <img src="img/609.jpg" class="img-fluid" alt="609 Creative">
             </div>
           </div>
