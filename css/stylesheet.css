@@ -52,6 +52,12 @@ h2 {
   /*font-family: 'kayak_sansregular', arial, sans-serif;*/
 }
 
+h3 {
+  font-family: 'Montserrat', arial, sans-serif;
+  margin-bottom: .5rem;
+  /*font-family: 'kayak_sansregular', arial, sans-serif;*/
+}
+
 .portfolio-items {
   max-height: 210px;
 }
@@ -245,6 +251,9 @@ a.social-icons:hover {
   margin-bottom: 15px;
 }
 
+.caption {
+  font-size: 12px;
+}
 .carousel-caption {
   position: absolute;
   right: 10%;

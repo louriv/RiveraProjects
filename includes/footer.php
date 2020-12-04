@@ -78,7 +78,7 @@
               <li><a href="http://www.comingsoon.riveraprojects.com/" target="_blank">Coming Soon Page</a></li>
                 <li><a href="https://www.intranet.riveraprojects.com" target="_blank">Company Intranet</a></li>
               <li><a href="employee-login.php">Example Login Page</a></li>
-              <li><a href="employee-register.php">Example Registration Page</a></li>
+              <li><a href="http://www.todo.riveraprojects.com" target="_blank">To-Do List</a></li>
                 <li><a href="https://cc.riveraprojects.com" target="_blank">Master's Capstone Website</a></li>
                 <li><a href="http://prettypaperinvites.com/" target="_blank">Pretty Paper Invites</a></li>
                 <li><a href="https://thegardensplaza.com/" target="_blank">The Gardens Plaza</a></li>
