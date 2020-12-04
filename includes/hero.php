@@ -4,7 +4,7 @@
           <div class="col">
             <img src="../img/headshot.jpg" alt="Headshot" class="bio d-none d-md-block img-fluid">
           </div>
-          <div class="col-md-9 col-sm-12">
+          <div class="col-sm-12 col-md-7 col-lg-8 col-xl-9">
 
             <h2>Oh, Hello. Nice to Finally Meet.</h2>
 
@@ -16,7 +16,7 @@
               <p>Now that you know a little about me, please take a look at my important site disclaimer before you check out the rest of my site. </p>
 
               <button type="button" class="btn btn-gold" data-toggle="modal" data-target="#exampleModal">
-                Click Me - No but seriously
+                Click Me - No, But Seriously
               </button>
               <p></p>
               <p>Now that we got that over with, enjoy the site! You can head on over to my <a href="blog.php">blog</a> to see what i've been up to over the years, including some pretty cool certificates. You could aslo head to <a href="technology.php">Technology</a> to see what I have to offer. My Resume is available upon request at: lrivera@royaltech.io</p>

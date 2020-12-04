@@ -40,17 +40,17 @@
         <div class="row">
           <div class="col-sm-12">
             <h2>Technology Runs Deep</h2>
-            <p>Technology is such a huge passion that I can't help but try to learn everything there is. While I specialize in Front-end Development, I have so much more to offer.</p>
+            <p>Technology is such a huge passion that I can't help but try to learn everything there is. While I specialize in Front-End Development, I have so much more to offer.</p>
             <p>Below are some of the Technologies that I commonly interact with in order to successfully accomplish my work.</p>
 <hr/>
 <div class="row">
   <div class="col-sm-12 col-md-6">
             <h5>Web Languages & Technologies</h5>
-            <p>HTML, CSS, PHP, JavaScript, jQuery, Node.JS, Ruby on Rails, Twitter Bootstrap Web Framework, MySQL Database, Lets Encrypt SSL, filezilla FTP, Local Server environment XAMPP, Responsive Web Design, Apache Web Server </p>
+            <p>HTML, CSS, PHP, JavaScript, jQuery, Node.JS, Ruby on Rails, Twitter Bootstrap Web Framework, MySQL Database, Lets Encrypt SSL, filezilla FTP, Local Server environment XAMPP, Responsive Web Design, Apache Web Server, RDP, SaSS, Command Line </p>
 </div>
   <div class="col-sm-12 col-md-6">
             <h5>Web Services & Integration</h5>
-            <p>DeskPro Helpdesk, Zoho Helpdesk, Google Analytics, Learning Management System Moodle</p>
+            <p>DeskPro Helpdesk, Zoho Helpdesk, Google Analytics, Learning Management System Moodle, Candy Chat, WordPress CMS, Liferay CMS</p>
 
 </div>
 </div>
@@ -62,7 +62,7 @@
   </div>
     <div class="col-sm-12 col-md-6">
             <h5>Office Productivity</h5>
-            <p>Microsoft office suite (Word, Excel, Powerpoint, Outlook) and Google Suite of tools (Sheets, Docs, Slides, Drive, Chat, Gmail)</p>
+            <p>Microsoft office suite (Word, Excel, Powerpoint, Outlook) and Google Suite of tools (Sheets, Docs, Slides, Drive, Chat, Gmail), Confluence</p>
 
           </div>
         </div>
@@ -94,7 +94,7 @@
           <div class="row">
             <div class="col-sm-12 col-md-6">
             <h5>Code Editors</h5>
-            <p>Dreamweaver, Atom, Sublime Text, Brackets, Notepad ++, Cloud 9, Visual Studio Code</p>
+            <p>Dreamweaver, Atom, Sublime Text, Brackets, Notepad ++, Cloud 9, Visual Studio Code, Text Wrangler</p>
   </div>
     <div class="col-sm-12 col-md-6">
             <h5>Browser Expertise</h5>

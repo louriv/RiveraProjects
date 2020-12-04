@@ -25,16 +25,18 @@
               <li><a href="employee-register.php">Employee Registration</a></li>
                 <li><a href="employee-login.php">Employee Login</a></li>
 <hr/>
-                <li class="first"><strong>Read This</strong></li>
+                <li class="first"><strong>Site Disclaimer</strong></li>
                 <!--<li><a href="#">Privacy Policy</a></li>
                   <li><a href="#">Terms & Use</a></li>
                   <li><a href="#">Data & Cookie use</a></li>
                 -->
                 <!-- Button trigger modal -->
               <li>
-                <button type="button" class="btn btn-gold img-fluid" data-toggle="modal" data-target="#exampleModal">
-                  Site Disclaimer
+                <a type="button" data-toggle="modal" data-target="#exampleModal"><u>Data & Usage</u></a>
+              <!--  <button type="button" class="btn btn-gold img-fluid" data-toggle="modal" data-target="#exampleModal">
+                  Data & Usage
                 </button>
+              -->
               </li>
                 <!-- Modal -->
                 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -73,13 +75,13 @@
 
               <li class="first"><strong>Website Projects</strong></li>
 
-              <li><a href="http://www.comingsoon.riveraprojects.com/" target="_blank">Coming Soon Landing Page</a></li>
-                <li><a href="https://www.intranet.riveraprojects.com" target="_blank">Company Intranet Project</a></li>
+              <li><a href="http://www.comingsoon.riveraprojects.com/" target="_blank">Coming Soon Page</a></li>
+                <li><a href="https://www.intranet.riveraprojects.com" target="_blank">Company Intranet</a></li>
               <li><a href="employee-login.php">Example Login Page</a></li>
               <li><a href="employee-register.php">Example Registration Page</a></li>
-                <li><a href="https://cc.riveraprojects.com" target="_blank">Master's Capstone - City Connect Website</a></li>
-                <li><a href="http://prettypaperinvites.com/" target="_blank">Client Site - Pretty Paper Invites</a></li>
-                <li><a href="https://thegardensplaza.com/" target="_blank">Client Site - The Gardens Plaza</a></li>
+                <li><a href="https://cc.riveraprojects.com" target="_blank">Master's Capstone Website</a></li>
+                <li><a href="http://prettypaperinvites.com/" target="_blank">Pretty Paper Invites</a></li>
+                <li><a href="https://thegardensplaza.com/" target="_blank">The Gardens Plaza</a></li>
 
 
             </ul>
