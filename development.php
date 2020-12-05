@@ -49,7 +49,7 @@
   <div class="container content-padding" >
         <div class="row">
           <div class="col-sm-12 col-md-8">
-            <h2 align="center">// Obsessed with Code</h2>
+            <h2 align="center">Front-End & UX Genie</h2>
             <p>Website and Software development skills are crucial to every organization. Whether you want to build a better application or add enhancements to your current experience. I've worked with a variety of programming languages to bridge any technology gap an organization may face.</p>
             <p>While I specialize in Front-End and User Experience Development, I have worked with many development environments to help an organizations provide the best technology possible. You can find a master list of technologies I work with over on the <a href="technology.php">Technology</a> page.</p>
             </div>

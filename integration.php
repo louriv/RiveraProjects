@@ -67,56 +67,114 @@
         <div class="container-fluid content-padding">
           <div class="container">
             <div class="row">
-              <div class="col-xs-12">
+              <div class="col">
+                <a href="employee-login.php"><img src="../img/portal.PNG" alt="Royal Technology Portal" class="img-thumbnail d-none d-md-block img-fluid"></a>
+
+              </div>
+              <div class="col-xs-12 col-md-8">
 
 
-            <div class="alert alert-success" role="alert">
-              <h4 class="alert-heading">Royal Technology Portal Login Instructions</h4>
-              <p>To show these integration skills, I have built a <u>portal login</u> feature for this site.</p>
 
-              <p>In order to login, users may login using the "Employee Login" link at the top or the url below with the following credentials:</p>
-              <p><a href="employee-login.php">Royal Technology Employee Portal</a><br/>Username: testing<br/>Password: testing</p>
+              <h4>Royal Technology Portal Login Instructions</h4>
+              <p>To show these integration skills, I have built a <a href="employee-login.php">portal login</a> feature for this site.</p>
+
+              <p>Login using the "portal login" link above with the following credentials:</p>
+              <p>Username: testing<br/>Password: testing</p>
 
             </div>
 
 
             </div>
-          </div>
-          </div>
-          </div>
           </div>
           </div>
 
           <div class="container-fluid content-padding">
             <div class="container">
-
+  <hr/>
               <div class="row">
+                <div class="col">
+                  <div class="container-fluid">
+                    <h4>LMS Integration Login Instructions</h4>
+                    <p>An "LMS" or a Learning Management System, is a platform that is designed to teach or train users on anything from company policies to learning a new skill. The following platform is an open source platform which I implemented and modified to be an online teaching environment. Teachers may login, create courses, and grade student work!</p>
+                    <p><a class="btn btn-gold" href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Integration</a></p>
+                    <div class="alert alert-secondary" role="alert">
+                      <h4>LMS Login Instructions</h4>
+                      <p>In order to login to the <u>external LMS</u>, users may login using the "Moodle Integration" button above. Alternatively, you may log into this portal and find a link inside the dashboard.</p>
+                      <p>Username: trainingtest <br/>Password: Training-Test1</p>
+                    </div>
+                  </div>
+                </div>
                 <div class="col-sm-12 col-md-4">
                   <div class="text-container">
                     <a href="https://www.moodle.riveraprojects.com"><img src="../img/moodle.png" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid"></a>
                   </div>
                 </div>
 
-          <div class="col">
-            <div class="container-fluid">
-              <h4>LMS Integration Project</h4>
-              <p>An "LMS" or a Learning Management System, is a platform that is designed to teach or train users on anything from company policies to learning a new skill. The following platform is an open source platform, moodle which I implemented and modified to be an online teaching environment. Teachers may login, create courses, and grade student work!</p>
-              <p><a class="btn btn-gold" href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Integration</a></p>
-              <div class="alert alert-secondary" role="alert">
-                <h4>LMS Login Instructions</h4>
-                <p>In order to login to the <u>external LMS</u>, users may login using the "Moodle Integration" button above. Alternatively, you may log into this portal and find a link in the navigation.</p>
-                <p>Username: trainingtest <br/>Password: Training-Test1</p>
+
+        </div>
+
+
+          </div>
+
+        </div>
+
+        <div class="container-fluid content-padding">
+          <div class="container">
+              <hr/>
+            <div class="row">
+              <div class="col">
+                <a href="https://www.royaltech.io/img/gitkraken.PNG" target="_blank"><img src="../img/gitkraken.PNG" alt="Git & GitKraken Version Control" class="img-thumbnail d-none d-md-block img-fluid"></a>
+
               </div>
+              <div class="col-xs-12 col-md-8">
+
+
+
+              <h4>Version Control using Git & GitKraken </h4>
+              <p>Version control is a big part of every project. It serves as your backup as well as risk mitigation for roll backs or bad updates. I like Git with GitKraken to manage my website rollouts.</p>
+
+              <p>Click the picture to see a snapshot in time of this website, Royal Technology, and the iterations of code and features i've pushed up to github over time!</p>
+
+
+            </div>
+
+
             </div>
           </div>
-        </div>
+          </div>
+
+
+
+          <div class="container-fluid content-padding">
+            <div class="container">
+              <hr/>
+              <div class="row">
+
+                <div class="col-xs-12 col-md-8">
+
+
+
+                <h4>Google Analytics Integration </h4>
+                <p>Whether you're looking for clicks, conversion, sales, or views, Google Analytics is a go-to tool for any organization. To demonstrate Integration, I have a Google Analytics tracking code installed on the site taking user metrics.</p>
+
+                <p>Unfortunately most of the traffic right now is me, but you get the idea. Once setup, simply <a href="https://analytics.google.com/analytics/web/" target="_blank">Login to Analytics</a> and check your stats. </p>
+
+
+              </div>
+
+              <div class="col">
+                <a href="https://www.royaltech.io/img/google-analytics.PNG" target="_blank"><img src="../img/google-analytics.PNG" alt="Google analytics Dashboard" class="img-thumbnail d-none d-md-block img-fluid"></a>
+
+              </div>
+
+
+              </div>
+            </div>
+            </div>
 
 
           </div>
 
-        </div>
-      </div>
-    </div>
 
 
   <!--universal footer -->
