@@ -37,10 +37,19 @@
 </div>
 </div>
 
+<div class="container-fluid">
+  <div class="container">
+    <hr/>
+    <p align="center"> “Success is normally found in pile of mistakes” - Desmond Tutu
+</p>
+    <hr/>
+  </div>
+</div>
+
 <div class="container content-padding">
   <div class="row">
     <div class="col">
-      <h2>Blogging Tech</h2>
+      
       </div>
     </div>
 
@@ -69,7 +78,7 @@
   </div>
 -->
 
-    <div class="row blog-white-bg">
+    <div class="row blog-gray-bg">
       <div class="col-xs-12 col-sm-12 col-md-8">
         <h5>Certificate - CompTIA<sup>TM</sup> Security+ CE</h5>
         <p>July 24, 2020</p>
@@ -85,14 +94,14 @@
       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <div class="text-container">
           <a href="https://www.youracclaim.com/badges/83d5fa10-b083-4611-9547-0dab384d5824?source=linked_in_profile" target="_blank">
-            <img src="../img/secpluslogo.jpg" alt="Security Plus Certified" class="img-thumbnail img-fluid blog-img d-none d-md-block">
+            <img src="../img/secpluslogo.jpg" alt="Security Plus Certified" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
           </a>
 
       </div>
     </div>
   </div>
 
-  <div class="row blog-gray-bg">
+  <div class="row blog-white-bg">
     <div class="col-xs-12 col-sm-12 col-md-8">
       <h5>Certificate - AWS Concepts</h5>
       <p>July 10, 2018</p>
@@ -108,14 +117,14 @@
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
       <div class="text-container">
         <a href="https://www.udemy.com/certificate/UC-GEDS1MRZ/" target="_blank">
-          <img src="../img/aws-concepts.jpg" alt="Amazon Web Services Certificate" class="img-thumbnail img-fluid blog-img d-none d-md-block">
+          <img src="../img/aws-concepts.jpg" alt="Amazon Web Services Certificate" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
         </a>
 
     </div>
   </div>
 </div>
 
-  <div class="row blog-white-bg">
+  <div class="row blog-gray-bg">
     <div class="col-xs-12 col-sm-12 col-md-8">
       <h5>Certificate - Introduction to Linux</h5>
       <p>April 23, 2018</p>
@@ -131,7 +140,7 @@
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
       <div class="text-container">
         <a href="https://www.udemy.com/certificate/UC-GEP4IZQR/" target="_blank">
-          <img src="../img/intro-to-linux.jpg" alt="Introduction to Linux Certificate" class="img-thumbnail img-fluid blog-img d-none d-md-block">
+          <img src="../img/intro-to-linux.jpg" alt="Introduction to Linux Certificate" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
         </a>
 
     </div>
@@ -139,7 +148,7 @@
 </div>
 
 
-  <div class="row blog-gray-bg">
+  <div class="row blog-white-bg">
     <div class="col-xs-12 col-sm-12 col-md-8">
       <h5>Milestone - Gaining my Master's Degree</h5>
       <p>December 15, 2017</p>
@@ -155,7 +164,7 @@
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
       <div class="text-container">
         <a href="#">
-          <img src="../img/diploma.jpg" alt="Graduation Picture" class="img-thumbnail img-fluid blog-img d-none d-md-block">
+          <img src="../img/diploma.jpg" alt="Graduation Picture" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
         </a>
 
     </div>
@@ -164,7 +173,7 @@
 
 
 
-    <div class="row blog-white-bg">
+    <div class="row blog-gray-bg">
       <div class="col-xs-12 col-sm-12 col-md-8">
         <h5>Reflection - Winning the Treasurer's award</h5>
         <p>September 22, 2017</p>
@@ -180,7 +189,7 @@
       <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <div class="text-container">
           <a href="#">
-            <img src="../img/treasurer-award.jpg" alt="Picture with the former State Treasurer of New Jersey" class="img-thumbnail img-fluid blog-img d-none d-md-block">
+            <img src="../img/treasurer-award.jpg" alt="Picture with the former State Treasurer of New Jersey" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
           </a>
 
       </div>
@@ -188,7 +197,7 @@
   </div>
 
 
-  <div class="row blog-gray-bg">
+  <div class="row blog-white-bg">
     <div class="col-xs-12 col-sm-12 col-md-8">
       <h5>Reflection - What I Learned Running my own business</h5>
       <p>June 16, 2016</p>
@@ -204,7 +213,7 @@
     <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
       <div class="text-container">
         <a href="#">
-          <img src="../img/rp-1.jpg" alt="Rivera Projects Branding" class="img-thumbnail img-fluid blog-img d-none d-md-block">
+          <img src="../img/rp-1.jpg" alt="Rivera Projects Branding" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
         </a>
 
     </div>

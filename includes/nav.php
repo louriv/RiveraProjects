@@ -40,10 +40,13 @@
     <li class="nav-item">
       <a class="nav-link" href="technology.php">Technology</a>
     </li>
+
       <li class="nav-item">
         <a class="nav-link" href="colleagues.php">Colleagues</a>
       </li>
-
+      <li class="nav-item">
+        <a class="nav-link" href="photography.php">Photography</a>
+      </li>
       <li class="nav-item">
         <a class="nav-link" href="blog.php">Blog</a>
       </li>

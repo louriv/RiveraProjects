@@ -373,14 +373,34 @@ padding: .25rem 1rem;
 
 .blog-gray-bg {
   padding: 15px;
-  background-color: #f5f5f5!important;
+  background-color: #f0f8ff!important;
   border-radius: 20px;
+}
+
+.blog-images {
+  margin: 0 auto;
 }
 
 .blog-img {
   max-width: 210px;
 }
 
+.bottom-margin {
+  margin-bottom: 25px;
+}
+
+.logos {
+  background-color: #fff;
+  border-radius: 20px;
+}
+
+.logo-padding {
+  padding: 10px;
+}
+
+.testimonial-font {
+  font-size: 14px;
+}
 /*navbar hover function instead of click
 .dropdown:hover>.dropdown-menu {
   display: block;

@@ -36,80 +36,84 @@
 </div>
 </div>
 
-      <div class="container content-padding">
+<div class="container-fluid">
+  <div class="container">
+    <hr/>
+    <p align="center"> “Design is not making beauty, beauty emerges from selection, affinities, integration, love.” -Louis Khan
+</p>
+    <hr/>
+  </div>
+</div>
+
+<div class="container-fluid" style="background-color: #f0f8ff;">
+  <div class="container content-padding">
         <div class="row">
-          <div class="col-sm-12">
-            <h2>Enabling Expansion Through Technology</h2>
+          <div class="col-sm-12 col-md-8">
+            <h2 align="center">Expansion Through Technology</h2>
             <p>Technology integration is pivotal for mission-crtical function and providing the opportunity to expand your organizations technological capabilities.</p>
             <p>Whether its implementing a training platform, a careers function, a helpdesk, or even project management software. My expertise will guide an organization to optimal, cost-saving solutions for scaling efficiently.</p>
-            <p>To show these integration skills, I have enabled the portal login feature of this site. Within the portal I have integrated several popular technologies, including a calendar, a helpdesk ticketing system, a password reset feature, and an LMS training platform.</p>
+            <p>Moodle is a Learning Management system that allows organizations to efficiently scale to train or teach in any subject they need!</p>
+            </div>
+            <div class="col">
+              <a href="https://moodle.riveraprojects.com" target="_blank"><img src="img/moodle.png" class="img-fluid img-thumbnail" alt="LMS Moodle"></a>
+              <div class="caption text-center">LMS Integration - Moodle</div>
+            </div>
+        </div>
+          </div>
+        </div>
+
+
+
+        <div class="container-fluid content-padding">
+          <div class="container">
+            <div class="row">
+              <div class="col-xs-12">
+
+
             <div class="alert alert-success" role="alert">
-              <h4 class="alert-heading">Portal Login Instructions</h4>
-              <p>In order to login to the portal <u>built within this site</u>, users may login using the "Employee Login" link at the top or the url below with the following credentials:</p>
+              <h4 class="alert-heading">Royal Technology Portal Login Instructions</h4>
+              <p>To show these integration skills, I have built a <u>portal login</u> feature for this site.</p>
+
+              <p>In order to login, users may login using the "Employee Login" link at the top or the url below with the following credentials:</p>
               <p><a href="employee-login.php">Royal Technology Employee Portal</a><br/>Username: testing<br/>Password: testing</p>
 
             </div>
-            </div>
-        </div>
 
-              <hr/>
 
-        <div class="container">
-          <div class="row">
-            <div class="col-sm-12 col-md-4">
-                <div class="text-container">
-              <a href="https://www.moodle.riveraprojects.com"><img src="../img/moodle.png" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid"></a>
-                <!--add tag if you want it over the image
-                <div class="tag">
-                </div>
-                -->
             </div>
           </div>
+          </div>
+          </div>
+          </div>
+          </div>
+
+          <div class="container-fluid content-padding">
+            <div class="container">
+
+              <div class="row">
+                <div class="col-sm-12 col-md-4">
+                  <div class="text-container">
+                    <a href="https://www.moodle.riveraprojects.com"><img src="../img/moodle.png" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid"></a>
+                  </div>
+                </div>
+
           <div class="col">
             <div class="container-fluid">
-
               <h4>LMS Integration Project</h4>
               <p>An "LMS" or a Learning Management System, is a platform that is designed to teach or train users on anything from company policies to learning a new skill. The following platform is an open source platform, moodle which I implemented and modified to be an online teaching environment. Teachers may login, create courses, and grade student work!</p>
-<p><a class="btn btn-gold" href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Integration</a></p>
+              <p><a class="btn btn-gold" href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Integration</a></p>
               <div class="alert alert-secondary" role="alert">
                 <h4>LMS Login Instructions</h4>
                 <p>In order to login to the <u>external LMS</u>, users may login using the "Moodle Integration" button above. Alternatively, you may log into this portal and find a link in the navigation.</p>
-
-
                 <p>Username: trainingtest <br/>Password: Training-Test1</p>
               </div>
-
-            </div>
-
-              </div>
-            </div>
-
-
-
-            <!--Platform integration project 2
-            <div class="row">
-              <div class="col-sm-12 col-md-8">
-                <div class="container-fluid">
-                  <h4>Project #2</h4>
-                  <p>An "LMS" or a Learning Management System, is a platform that is designed to teach or train users on anything from company policies to learning a new skill. The following platform is an open source platform, moodle which I implemented and modified to be an online teaching environment. Teachers may login, create courses, and grade student work!</p>
-                  <a class="btn btn-gold" href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Integration</a>
-                </div>
-
-            </div>
-            <div class="col">
-              <div class="text-container">
-            <img src="../riveraprojects/img/moodle.png" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid">
-            <div class="tag">
-              LMS Platform Moodle
             </div>
           </div>
         </div>
-      </div>
-    -->
-
 
 
           </div>
+
         </div>
       </div>
     </div>

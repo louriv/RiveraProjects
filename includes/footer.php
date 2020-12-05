@@ -20,10 +20,10 @@
             <ul class="footer-links">
 
 
-              <li class="first"><strong>Employee Portal</strong></li>
+              <li class="first"><strong>Royal Tech Portal</strong></li>
 
-              <li><a href="employee-register.php">Employee Registration</a></li>
-                <li><a href="employee-login.php">Employee Login</a></li>
+              <li><a href="employee-register.php">Portal Registration</a></li>
+                <li><a href="employee-login.php">Portal Login</a></li>
 <hr/>
                 <li class="first"><strong>Site Disclaimer</strong></li>
                 <!--<li><a href="#">Privacy Policy</a></li>
@@ -94,8 +94,10 @@
                  <li><a href="design.php">Design</a></li>
                  <li><a href="Development.php">Development</a></li>
                   <li><a href="integration.php">Integration</a></li>
+                    <li><a href="technology.php">Technology</a></li>
                  <li><a href="colleagues.php">Colleagues</a></li>
-                 <li><a href="blog.php" >Blogging Tech</a></li>
+                 <li><a href="photography.php">Photography</a></li>
+                 <li><a href="blog.php" >Blog</a></li>
 
 
             </ul>
@@ -108,8 +110,8 @@
                               <li class="first"><strong>Integration Projects</strong></li>
                               <li><a href="https://www.moodle.riveraprojects.com" target="_blank" >LMS integration</a></li>
                               <li><a href="employee-login.php">Portal Login</a></li>
-                              <li><a href="blog.php">Example Company Blog</a></li>
-                              <li><a href="blog-riveraprojects.php"> Example Blog Post Integration</a></li>
+                              <li><a href="blog.php">Company Blog</a></li>
+
 
 
                               <hr/>

@@ -36,16 +36,33 @@
 </div>
 </div>
 
-      <div class="container content-padding">
+<div class="container-fluid">
+  <div class="container">
+    <hr/>
+    <p align="center"> “It's still magic even if you know how it's done.” - Terry Pratchett
+</p>
+    <hr/>
+  </div>
+</div>
+
+<div class="container-fluid" style="background-color: #f0f8ff;">
+  <div class="container content-padding" >
         <div class="row">
-          <div class="col-sm-12">
-            <h2>// Obsessed with Code</h2>
+          <div class="col-sm-12 col-md-8">
+            <h2 align="center">// Obsessed with Code</h2>
             <p>Website and Software development skills are crucial to every organization. Whether you want to build a better application or add enhancements to your current experience. I've worked with a variety of programming languages to bridge any technology gap an organization may face.</p>
-            <p>While I specialize in Front-End and User Experience Development, I have worked with many development environments to help an organizations provide the best technology possible.</p>
+            <p>While I specialize in Front-End and User Experience Development, I have worked with many development environments to help an organizations provide the best technology possible. You can find a master list of technologies I work with over on the <a href="technology.php">Technology</a> page.</p>
+            </div>
+            <div class="col">
+              <a href="http://prettypaperinvites.com/" target="_blank"><img src="img/pretty-paper.PNG" class="img-fluid img-thumbnail" alt="Pretty Paper Invites"></a>
+              <div class="caption text-center">Client Website: Pretty Paper Invites</div>
             </div>
         </div>
+      </div>
+    </div>
+    <!--
 
-
+<div class="container content-padding">
           <div class="row">
             <div class="col">
               <div class="accordion" id="accordionExample">
@@ -65,10 +82,7 @@
               <div class="text-container">
             <a href="http://www.comingsoon.riveraprojects.com" target="
             "><img src="../img/coming-soon.PNG" alt="Landing Page" class="img-thumbnail d-none d-md-block img-fluid"></a>
-            <!--add tag if you want a blue banner over the image
-            <div class="tag">
-             </div>
-            -->
+
           </div>
         </div>
         <div class="col">
@@ -97,10 +111,7 @@
           <div class="col-sm-12 col-md-4  space-up">
               <div class="text-container">
             <a href="https://www.intranet.riveraprojects.com"><img src="../img/intranet.PNG" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
-            <!--add tag if you want a blue banner over the image
-            <div class="tag">
-             </div>
-            -->
+
           </div>
         </div>
         <div class="col">
@@ -130,10 +141,7 @@
           <div class="col-sm-12 col-md-4  space-up">
               <div class="text-container">
             <a href="https://thegardensplaza.com/" target="_blank"><img src="../img/gardens-plaza.PNG" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
-            <!--add tag if you want a blue banner over the image
-            <div class="tag">
-             </div>
-            -->
+
           </div>
         </div>
         <div class="col">
@@ -164,10 +172,7 @@
           <div class="col-sm-12 col-md-4  space-up">
               <div class="text-container">
             <a href="https://thegardensplaza.com/" target="_blank"><img src="../img/rt-screenshot.PNG" alt="Intranet Project" class="img-thumbnail d-none d-md-block img-fluid"></a>
-            <!--add tag if you want a blue banner over the image
-            <div class="tag">
-             </div>
-            -->
+
           </div>
         </div>
         <div class="col">
@@ -199,6 +204,8 @@
 
 
         </div>
+
+      -->
       </div>
     </div>
 
