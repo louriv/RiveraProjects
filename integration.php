@@ -94,19 +94,16 @@
               <div class="row">
                 <div class="col">
                   <div class="container-fluid">
-                    <h4>LMS Integration Login Instructions</h4>
-                    <p>An "LMS" or a Learning Management System, is a platform that is designed to teach or train users on anything from company policies to learning a new skill. The following platform is an open source platform which I implemented and modified to be an online teaching environment. Teachers may login, create courses, and grade student work!</p>
-                    <p><a class="btn btn-gold" href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Integration</a></p>
-                    <div class="alert alert-secondary" role="alert">
-                      <h4>LMS Login Instructions</h4>
-                      <p>In order to login to the <u>external LMS</u>, users may login using the "Moodle Integration" button above. Alternatively, you may log into this portal and find a link inside the dashboard.</p>
+                    <h4>Moodle LMS Integration</h4>
+                    <p>An "LMS" or a Learning Management System, is a platform that is designed to teach or train users. Moodle is an open source platform which I implemented and modified to be an online teaching environment. Teachers may login, create courses, and grade student work!</p>
+                      <p>Login: <a href="https://www.moodle.riveraprojects.com" target="_blank">Moodle Login Page</a></p>
                       <p>Username: trainingtest <br/>Password: Training-Test1</p>
-                    </div>
+
                   </div>
                 </div>
                 <div class="col-sm-12 col-md-4">
                   <div class="text-container">
-                    <a href="https://www.moodle.riveraprojects.com"><img src="../img/moodle.png" alt="Mission" class="img-thumbnail d-none d-md-block img-fluid"></a>
+                    <a href="https://www.moodle.riveraprojects.com" target="_blank"><img src="../img/moodle2.PNG" alt="Moodle LMS" class="img-thumbnail d-none d-md-block img-fluid"></a>
                   </div>
                 </div>
 
@@ -123,7 +120,7 @@
               <hr/>
             <div class="row">
               <div class="col">
-                <a href="https://www.royaltech.io/img/gitkraken.PNG" target="_blank"><img src="../img/gitkraken.PNG" alt="Git & GitKraken Version Control" class="img-thumbnail d-none d-md-block img-fluid"></a>
+                <a href="https://www.royaltech.io/img/gitkraken.PNG" target="_blank"><img src="../img/gitkraken.PNG" alt="Git & GitKraken Version Control" class="img-thumbnail img-fluid"></a>
 
               </div>
               <div class="col-xs-12 col-md-8">
@@ -163,7 +160,7 @@
               </div>
 
               <div class="col">
-                <a href="https://www.royaltech.io/img/google-analytics.PNG" target="_blank"><img src="../img/google-analytics.PNG" alt="Google analytics Dashboard" class="img-thumbnail d-none d-md-block img-fluid"></a>
+                <a href="https://www.royaltech.io/img/google-analytics.PNG" target="_blank"><img src="../img/google-analytics.PNG" alt="Google analytics Dashboard" class="img-thumbnail img-fluid"></a>
 
               </div>
 

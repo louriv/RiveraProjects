@@ -54,9 +54,9 @@
             <h2 align="center">Creating Beautiful Branding</h2>
 
 
-            <p>Design skills are few and far between. It's a must have skill if you want a consistent brand. Logos, brochures, colors, branding and fonts all define an organization. I have the knowledge and foundation to design beautiful experiences.</p>
-            <p>Some examples of my design experience include: Print Design, Prototyping, Email Design, Digital Design, Logo Design, Brochures, pamphlets, Brand Identity, and more!</p>
-            <p>Are you interested in what went into creating the <u>Royal Technology brand</u>? Blog post will be coming soon.</p>
+            <p>Design skills are few and far between. It's a must have skill if you want a consistent brand. Logos, assets, colors, branding and fonts all define an organization. I have the knowledge and foundation to design beautiful experiences.</p>
+            <p>Some examples of my design experience include: Print Design, Prototyping, Email Design, Digital Design, Logo Design, Brand Identity, and more. </p>
+            <p>Royal Technology is a brand that was created solely by me. Colors, fonts, logos, and assets were all developed together for a holistic design experience. Creative Cloud for the win!</p>
             </div>
             <div class="col">
               <a href="https://www.royaltech.io/img/royal-technology-certificate.png" target="_blank"><img src="img/royal-technology-certificate.png" class="img-fluid img-thumbnail" alt="Certficate of Royal Technology"></a>
@@ -78,7 +78,7 @@
 
               <h3>Logo Design</h3>
 
-              <p>All logos & Graphics shown were created by me and are intellectual property of said organizations. Taking and using these logos without permission is strictly prohibited. The Programs used for logo creation were <u>Adobe Photoshop</u> & <u>Adobe Illustrator</u></p>
+              <p>All logos & Graphics shown were created by me. Taking and using these logos without permission is strictly prohibited. The Programs used for logo creation were <u>Adobe Photoshop</u> & <u>Adobe Illustrator</u></p>
 
 
 

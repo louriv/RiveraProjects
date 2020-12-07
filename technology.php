@@ -67,17 +67,17 @@
 <div class="row">
   <div class="col-sm-12 col-md-4">
     <h5>Web Languages & Technologies</h5>
-    <p>HTML, CSS, PHP, JavaScript, jQuery, Node.JS, Ruby on Rails, Twitter Bootstrap Web Framework, MySQL Database, Lets Encrypt SSL, filezilla FTP, Local Server environment XAMPP, Responsive Web Design, Apache Web Server, RDP, SaSS, Command Line </p>
+    <p>HTML, CSS, PHP, JavaScript, jQuery, Node.JS, Ruby on Rails, Twitter Bootstrap Web Framework, MySQL Database, Lets Encrypt SSL, Filezilla FTP, XAMPP, Responsive Web Design, Apache Web Server, RDP, SaSS, Command Line </p>
 
           </div>
   <div class="col-sm-12 col-md-4">
             <h5>Web Services & Integration</h5>
-            <p>DeskPro Helpdesk, Zoho Helpdesk, Google Analytics, Learning Management System Moodle, Candy Chat, WordPress CMS, Liferay CMS</p>
+            <p>DeskPro Helpdesk, Zoho Helpdesk, Google Analytics, Moodle LMS, Candy Chat, WordPress CMS, Liferay CMS, Gitlab</p>
 
 </div>
 <div class="col-sm-12 col-md-4">
   <h5>Office Productivity</h5>
-  <p>Microsoft office suite (Word, Excel, Powerpoint, Outlook) and Google Suite of tools (Sheets, Docs, Slides, Drive, Chat, Gmail), Confluence</p>
+  <p>Microsoft Office Suite (Word, Excel, Powerpoint, Outlook) and Google Suite of tools (Sheets, Docs, Slides, Drive), Confluence</p>
 
 
 </div>
@@ -86,11 +86,11 @@
 <div class="row">
   <div class="col-sm-12 col-md-4">
     <h5>Collboration</h5>
-    <p>Zoom, Slack, Teams, Jabber, Swift</p>
+    <p>Zoom, Slack, Teams, Jabber, Swift, Outlook, G Chat, Gmail</p>
           </div>
     <div class="col-sm-12 col-md-4">
       <h5>Design Chops</h5>
-      <p>Adobe Creative Suite including Photoshop, Illustrator, InDesign, Dreamweaver, Acrobat</p>
+      <p>Adobe Creative Suite including Photoshop, Illustrator, InDesign, Dreamweaver, Acrobat Pro</p>
 
           </div>
           <div class="col-sm-12 col-md-4">
@@ -112,7 +112,7 @@
           </div>
           <div class="col-sm-12 col-md-4">
           <h5>Code Editors</h5>
-          <p>Dreamweaver, Atom, Sublime Text, Brackets, Notepad ++, Cloud 9, Visual Studio Code, Text Wrangler</p>
+          <p>Dreamweaver, Atom, Sublime Text, Brackets, Notepad ++, Cloud 9, Visual Studio Code, Text Wrangler, Eclipse</p>
 </div>
 
         </div>
@@ -120,7 +120,7 @@
           <div class="row">
             <div class="col-sm-12 col-md-4">
               <h5>Project Management</h5>
-              <p>Jira, Gitlab, Trello, Basecamp <br/> *I have worked with both the Agile and Waterfall Methodologies</p>
+              <p>Jira, Gitlab, Trello, Basecamp <br/> <span style="font-size: 12px;">*I have worked with Agile and Waterfall Methodologies</span></p>
 
   </div>
   <div class="col-sm-12 col-md-4">
