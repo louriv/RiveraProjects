@@ -6,12 +6,12 @@
           </div>
           <div class="col-sm-12 col-md-7 col-lg-8 col-xl-9">
 
-            <h2>Oh, Hello. Nice to Finally Meet.</h2>
+            <h2>Oh, Hello. It's Nice to Finally Meet.</h2>
 
 
 
 
-              <p> <span><i class="fas fa-quote-left"></i></span> Ever since my first <u>'hello world'</u>, I have been an ambitious Web Developer who takes a keen interest in all kinds of technology. With a background in Design, Development & Project Management, I am always looking to stay at the forefront of cutting-edge technology. I take pride in my never ending curiosity and thirst for knowledge. So far I have provided 10+ years of technology consulting to clients and employers alike. I am committed to innovation and improvement for each and every one of my clients across a wide variety of technology capability. I can't imagine what life is like at the end of this technology journey, however, Chief Technology Officer has a nice ring to it ;)</p>
+              <p> <span><i class="fas fa-quote-left"></i></span> Ever since my first <u>'hello world'</u>, I have been an ambitious Web Developer who takes a keen interest in all kinds of technology. With a background in Design, Development & Project Management, I am always looking to stay at the forefront of cutting-edge technology. I take pride in my never ending curiosity and thirst for knowledge. So far I have provided 10+ years of technology consulting to clients and employers alike. I am committed to innovation and improvement for each and every one of my clients across a wide variety of technological capability. I can't imagine what life is like at the end of this journey, however, Chief Technology Officer has a nice ring to it ;)</p>
 
               <p>Now that you know a little about me, please take a look at my important site disclaimer before you check out the rest of my site. </p>
 

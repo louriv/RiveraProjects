@@ -50,7 +50,8 @@
    </div> <!-- container -->
 
 
-
+<!-- Feedback widget Zoho Desk -->
+<script src="https://desk.zoho.com/portal/api/feedbackwidget/555389000000156138?orgId=730922650&displayType=popout"></script>
 
     <!-- needed for the google translate element -->
 <script type="text/javascript">

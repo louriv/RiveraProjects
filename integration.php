@@ -52,7 +52,6 @@
             <h2 align="center">Expansion Through Technology</h2>
             <p>Technology integration is pivotal for mission-crtical function and providing the opportunity to expand your organizations technological capabilities.</p>
             <p>Whether its implementing a training platform, a careers function, a helpdesk, or even project management software. My expertise will guide an organization to optimal, cost-saving solutions for scaling efficiently.</p>
-            <p>Moodle is a Learning Management system that allows organizations to efficiently scale to train or teach in any subject they need!</p>
             </div>
             <div class="col">
               <a href="https://moodle.riveraprojects.com" target="_blank"><img src="img/moodle.png" class="img-fluid img-thumbnail" alt="LMS Moodle"></a>
@@ -168,6 +167,31 @@
               </div>
             </div>
             </div>
+
+            <div class="container-fluid content-padding">
+              <div class="container">
+                  <hr/>
+                <div class="row">
+                  <div class="col">
+                    <a href="https://www.royaltech.io/img/helpdesk.PNG" target="_blank"><img src="../img/helpdesk.PNG" alt="Zoho Helpdesk Integration" class="img-thumbnail img-fluid"></a>
+
+                  </div>
+                  <div class="col-xs-12 col-md-8">
+
+
+
+                  <h4>Zoho Helpdesk Issue tracking </h4>
+                  <p>Issue tracking & management is a huge part of support departments in every organization. It provides a paper trail of issues, issue progress, and issue resolution. While this platform is currently separate, it's also well within my skillset to integrate a helpdesk on a custom domain.</p>
+
+                  <p> Want to send me a ticket? Click on the "Feedback" button on the right of your screen!</p>
+
+
+                </div>
+
+
+                </div>
+              </div>
+              </div>
 
 
           </div>

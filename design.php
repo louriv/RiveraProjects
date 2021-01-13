@@ -127,6 +127,23 @@
         </div>
       </div>
 
+      <div class="container-fluid">
+        <div class="container content-padding">
+    <br/>
+
+
+              <h3>Graphic Design</h3>
+
+              <p>My Graphic Design projects always seem to few and far between. Although design isn't typically my primary job responsibility, <u>I always make time to keep my skills sharp.</u> Yes, even with example imaginary flyers.</p>
+
+
+
+          <br/>
+      <a href="https://www.royaltech.io/img/royal-technology-seminar-flyer.png"><img src="img/royal-technology-seminar-flyer.png" alt="Flyer Example using vecteezy illustration" class="img-fluid img-thumbnail"></a>
+
+    </div>
+  </div>
+
 
 
 

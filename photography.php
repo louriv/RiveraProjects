@@ -57,15 +57,22 @@
               </a>
             </div>
             <div class="mb-3">
+              <a href="https://www.royaltech.io/img/photography/german-memorial.jpg" data-size="1600x1067">
+                <img alt="War Memorial" src="img/photography/german-memorial.jpg" class="img-fluid img-thumbnail">
+              </a>
+            </div>
+            <!--<div class="mb-3">
               <a href="https://www.royaltech.io/img/photography/guiness.jpg" data-size="1600x1067">
                 <img alt="Guiness" src="img/photography/guiness.jpg" class="img-fluid img-thumbnail">
               </a>
             </div>
+
             <div class="mb-3">
               <a href="https://www.royaltech.io/img/photography/mobtown.jpg" data-size="1600x1067">
                 <img alt="Mobtown" src="img/photography/mobtown.jpg" class="img-fluid img-thumbnail">
               </a>
             </div>
+            -->
             </figure>
               <!--second column -->
             <figure class="col-md-4">
@@ -74,11 +81,7 @@
                 <img alt="Patterson Pond" src="img/photography/patterson-pond.jpg" class="img-fluid img-thumbnail">
               </a>
             </div>
-            <div class="mb-3">
-              <a href="https://www.royaltech.io/img/photography/german-memorial.jpg" data-size="1600x1067">
-                <img alt="War Memorial" src="img/photography/german-memorial.jpg" class="img-fluid img-thumbnail">
-              </a>
-            </div>
+
             </figure>
 
             <!--third column-->

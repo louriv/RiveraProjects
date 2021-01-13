@@ -60,6 +60,140 @@
         </div>
       </div>
     </div>
+
+
+            <div class="container-fluid content-padding">
+              <div class="container">
+                <div class="row">
+                  <div class="col">
+                    <a href="http://comingsoon.riveraprojects.com" target="_blank"><img src="../img/coming-soon.PNG" alt="Coming Soon Landing Page" class="img-thumbnail d-none d-md-block img-fluid"></a>
+
+                  </div>
+                  <div class="col-xs-12 col-md-8">
+
+
+
+                  <h4>Coming Soon Landing Page</h4>
+                  <p>Landing pages or splash pages can have a wide variety of uses for organizations. One example web project shows how a company can launch a coming soon feature for a website, application, product or feature.</p>
+
+                  <p>URL: <a href="http://comingsoon.riveraprojects.com" target="_blank">http://comingsoon.riveraprojects.com</a></p>
+
+
+                </div>
+
+
+                </div>
+              </div>
+              </div>
+
+              <div class="container-fluid content-padding">
+                <div class="container">
+      <hr/>
+                  <div class="row">
+                    <div class="col">
+                      <div class="container-fluid">
+                        <h4>M.S. Capstone Website</h4>
+                        <p>My Capstone project was a fully functional website that allowed users to login to their dashboard to receive notifications about community safety. CityConnect was a platform built on a premise of raising community awareness to help one another.</p>
+                        <p>URL: <a href="https://cc.riveraprojects.com" target="_blank">https://cc.riveraprojects.com</a></p>
+
+
+
+                      </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4">
+                      <div class="text-container">
+                        <a href="https://www.cc.riveraprojects.com" target="_blank"><img src="../img/city-connect.PNG" alt="City Connect" class="img-thumbnail d-none d-md-block img-fluid"></a>
+                      </div>
+                    </div>
+
+
+            </div>
+
+
+              </div>
+
+            </div>
+
+            <div class="container-fluid content-padding">
+              <div class="container">
+                <hr/>
+                <div class="row">
+                  <div class="col">
+                    <a href="http://todo.riveraprojects.com" target="_blank"><img src="../img/to-do-list.PNG" alt="Coming Soon Landing Page" class="img-thumbnail d-none d-md-block img-fluid"></a>
+
+                  </div>
+                  <div class="col-xs-12 col-md-8">
+
+
+
+                  <h4>To-Do List</h4>
+                  <p>This example web project was a small web project with the aim of creating a To-Do List using jQuery. Users may add or delete items from their list!</p>
+
+                  <p>URL: <a href="http://todo.riveraprojects.com" target="_blank">http://todo.riveraprojects.com</a></p>
+
+
+                </div>
+
+
+                </div>
+              </div>
+              </div>
+
+              <div class="container-fluid content-padding">
+                <div class="container">
+      <hr/>
+                  <div class="row">
+                    <div class="col">
+                      <div class="container-fluid">
+                        <h4>Example Company Intranet</h4>
+                        <p>It is very common to see organizations using internal portals, or intranets within their site. This section is usually reserved for employees to find relevant company wide information not available to the public. I have experience leading and building such experiences from the ground up. Take a look at this example I built!</p>
+                        <p>URL: <a href="https://www.intranet.riveraprojects.com/" target="_blank">https://www.intranet.riveraprojects.com/</a></p>
+
+
+
+                      </div>
+                    </div>
+                    <div class="col-sm-12 col-md-4">
+                      <div class="text-container">
+                        <a href="https://www.intranet.riveraprojects.com/" target="_blank"><img src="../img/intranet.PNG" alt="Company Intranet" class="img-thumbnail d-none d-md-block img-fluid"></a>
+                      </div>
+                    </div>
+
+
+            </div>
+
+
+              </div>
+
+            </div>
+
+            <div class="container-fluid content-padding">
+              <div class="container">
+                <hr/>
+                <div class="row">
+                  <div class="col">
+                    <a href="https://thegardensplaza.com/" target="_blank"><img src="../img/gardens-plaza.PNG" alt="The Gardens Plaza" class="img-thumbnail d-none d-md-block img-fluid"></a>
+
+                  </div>
+                  <div class="col-xs-12 col-md-8">
+
+
+
+                  <h4>Client Website - The Gardens Plaza</h4>
+                  <p>The Gardens Plaza was a client website built in 2015 using the WordPress CMS for a condiminium community in Ocean City, NJ. </p>
+
+                  <p>URL: <a href="https://thegardensplaza.com/" target="_blank">https://thegardensplaza.com/</a></p>
+
+
+                </div>
+
+
+                </div>
+              </div>
+              </div>
+
+
+
     <!--
 
 <div class="container content-padding">
