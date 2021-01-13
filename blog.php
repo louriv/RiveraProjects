@@ -49,34 +49,34 @@
 <div class="container content-padding">
   <div class="row">
     <div class="col">
-      
+
       </div>
     </div>
 
-<!--
-    <div class="row blog-gray-bg">
-      <div class="col-xs-12 col-sm-12 col-md-7">
-        <h5>Reflection - Backgound and Goals for 2021</h5>
-        <p>December 2, 2020</p>
-        <p>Get to know a little more about my background in design and development. No journey is ever a straight path. </p>
+    <div class="row blog-white-bg">
+      <div class="col-xs-12 col-sm-12 col-md-8">
+        <h5>Cryptocurrency & Stock Analysis</h5>
+        <p>January 13, 2021</p>
+        <p>I like to follow and track cryptocurrency coins as well as some stocks.<br/>
+        <strong>Current Coins:</strong> Bitcoin, Ethereum, Litecoin, Ripple, OmiseGo,<br/>
+        <strong>Current Stocks:</strong> Amazon, Diageo,</p>
 
 
 
-      <a href="#" class="btn btn-gold" disabled>Coming Soon</a></p>
+      <a href="blog-crypto-analysis.php" class="btn btn-gold">Read Article</a></p>
 
         </div>
 
 
-      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4">
+      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
         <div class="text-container">
-          <a href="https://www.youracclaim.com/badges/83d5fa10-b083-4611-9547-0dab384d5824?source=linked_in_profile" target="_blank">
-            <img src="../riveraprojects/img/SecPlusLogo.jpg" alt="Security Plus Certified" class="img-thumbnail img-fluid blog-img">
+
+            <img src="../img/bitcoin-image.jpg" alt="Bitcoin Image" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
           </a>
 
       </div>
     </div>
-  </div>
--->
+    </div>
 
     <div class="row blog-gray-bg">
       <div class="col-xs-12 col-sm-12 col-md-8">
