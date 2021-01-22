@@ -55,8 +55,7 @@
 
     <div class="row blog-white-bg">
       <div class="col-xs-12 col-sm-12 col-md-8">
-        <h5>Cryptocurrency & Stock Analysis</h5>
-        <p>January 13, 2021</p>
+        <h5>Cryptocurrency & Stock Analysis</h5>  
         <p>I like to follow and track cryptocurrency coins as well as some stocks.<br/>
         <strong>Current Coins:</strong> Bitcoin, Ethereum, Litecoin, Ripple, OmiseGo,<br/>
         <strong>Current Stocks:</strong> Amazon, Diageo,</p>
