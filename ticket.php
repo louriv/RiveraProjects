@@ -13,8 +13,11 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
+<head>
      <!--header scripts -->
      <?php include ('includes/header-scripts.php'); ?>
+     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     </head>
 
 
 

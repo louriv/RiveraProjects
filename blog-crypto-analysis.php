@@ -4,8 +4,10 @@
 <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
 
      <!--header scripts -->
+     <head>
      <?php include ('includes/header-scripts.php'); ?>
-
+     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     </head>
 
 
   <body class="site">
@@ -49,7 +51,7 @@
   <div class="row">
     <div class="col">
       <h5>Coins: Bitcoin, Ethereum, Litecoin, Ripple, OmiseGo<br/> Stocks: Amazon, Diageo</h5>
-      <p>Last Update: January 22, 2021. 9:54 AM EST</p>
+      <p>Last Update: February 1, 2021. 9:30 AM EST</p>
       <p><b><u>Legal disclaimer:</u></b> I am not a financial advisor. The advice here given is not a financial advice. You trade at your own risk and nobody can guarantee you results.
 
 
@@ -64,14 +66,14 @@
   <h5>BTC/USD</h5>
       <a href="../img/crypto-updates/btc-usd.PNG" target="_blank"/><img src="../img/crypto-updates/btc-usd.PNG" alt="Bitcoin Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
-      <p>This is the daily chart on bitcoin. Both the symmetrical triangle broke down along with the bullish pennant in play. We saw a quick drop to 28k as i previously mentioned and we held the SMA 50 overnight. <b><u>In my opinion this was not a crash, this was the dip.</u></b> RSI was overbought and now we are back in the normal range, although a bit lower than I would like. I would expect consolidation and/or a slow grind back to the breakout line</p>
-      <p>
+      <p>We experienced a crazy weekend in regards to the bitcoin movement. We broke out of the channel and took off like a rocket toward the newly created resistance at 38,100. (This seemed to coincide with the elon musk tweet). Regardless of whatever you believe, the wick rejected and we came back to earth for what seemed like more consolidation. However, more sideways action isn’t a bad thing in this situation. We are being propped up by the sma10 and consolidating for what looks like a break of the 34k level. Getting a daily close above here would put our next target back into the 38k region. I’m leaning bullish on a break upward.
+</p>
+<p>
         Sentiment: currently holding 76% position. I offloaded 24% at 39k. Next target is 50k. Considering a 9% holdings offload at 50k to make it a clean 33%
 </p>
 
       <p>
-        How I would trade:on the sidelines until we breakout or gain some more strength. We are notably below the sma 10
-</p>
+      How I would trade: HODL </p>
 
     </div>
   </div>
@@ -84,15 +86,13 @@
 
       <a href="../img/crypto-updates/eth-usd.PNG" target="_blank"/><img src="../img/crypto-updates/eth-usd.PNG" alt="Ethereum Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
-      <p>Ethereum seemed to retain the most strength after all of crypto bled yesterday. I'm still really bullish on ethereum mid term (1-2 months). Once we break all time high, we're going to double quickly.
+      <p>Here is today’s ethereum chart. One thing I wanted to highlight about this chart is the RSI. While ethereum seems to consolidate here, we are noticing solid attempts to push up while the RSI continues to consolidate in what looks like a descending trend line, which is capping the volatility of the coin. It’s time to put this coin on watch. The RSI is back in the neutral (ish) area and an RSI breakout is suggesting a big move on the coin (that could be up or down but I am leaning bullish on this coin as well)</p>
 
-
-
- </p>
+      <p>The biggest takeaway from this coin is that we can observe multiple rejections at the 1400 resistance. However, each resistance is eating the sellers as each rejection is getting weaker. Our goal is to get above the sma10. Another attack on 1400 might do it, folks.</p>
 
       <p>Sentiment: bullish </p>
 
-      <p>How I would trade: A break above 1366 to enter or as close to 1218 as possible
+      <p>How I would trade: added another coin here at the 1280ish level
 
 
 </p>
@@ -108,11 +108,14 @@
       <a href="../img/crypto-updates/ltc-usd.PNG" target="_blank"/><img src="../img/crypto-updates/ltc-usd.PNG" alt="Litecoin Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        Ltc held the sma 50 which is super important for all coins. We are seeing the important demand zone get bought up quickly. Assuming we retake the 138 zone, This is a good entry with a stop below the sma 50. Litecoin is more of a mid term trade (6 months) as the ltc/btc chart is suppressed and trading under the important averages.</p>
+      Litecoin is looking the most bearish out of the big 3 coins. It is notably below the sma 10 as well as the sma 50. The litecoin ratio in comparison to btc is still super suppressed. If you think crypto is still bullish in the mid term, this would bring the best value buy.
+    </p>
 
       <p>Sentiment: Swing Long, currently holding</p>
 
-      <p>i like an entry here.
+      <p>How i would trade: aadded to my position and just picked up more here at the 127 level per litecoin
+
+
 
 </p>
     </div>
@@ -127,13 +130,14 @@
       <a href="../img/crypto-updates/omg-usd.PNG" target="_blank"/><img src="../img/crypto-updates/omg-usd.PNG" alt="Omise Go Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        An awesome entry presented itself yesterday and was quickly bought up with strength. I like omg. If entering, stops at 2.99
+        OMG had a quick run followed by another big wick. Still in the weeds but bullish overall. If we can find our way above 4.46 we are going to rip higher.
 </p>
 
-      <p>Sentiment: Bullish
+      <p>Sentiment: neutral
 </p>
 
-      <p>How i would trade: add to position here
+      <p>How i would trade:  I sold my position around ~3.50 and rotated my 20% profits to litecoin and ethereum
+
 
 </p>
     </div>
@@ -148,10 +152,10 @@
       <a href="../img/crypto-updates/xrp-usd.PNG" target="_blank"/><img src="../img/crypto-updates/xrp-usd.PNG" alt="Ripple Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        XRP cant get above the sma 200 to save it’s life. Bearish until we can hold some kind of meaningful average.
+        Ripple was the most interesting coin of the weekend absolutely ripping all the way to the .70 cent level prior to coming back down. Clear RSI breakout and what looks like a backtest as well. Dare I say, leaning bullish?
 </p>
 
-      <p>Sentiment: short term bearish mid term bearish
+      <p>Sentiment: Bullish?
 </p>
 
       <p>How to trade: Ripple lawsuit is making this trade complicated. <b><u>Coinbase is no longer allowing trades on XRP.
@@ -169,7 +173,7 @@
       <a href="../img/crypto-updates/eth-btc.PNG" target="_blank"/><img src="../img/crypto-updates/eth-btc.PNG" alt="Ethereum / Bitcoin Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        ETH/BTC is flying high still. The pullback saw an intense drop in the ratio that was bought up with intense strength. That shooting star wick on the red candle means we are still insanely bullish. Ethereum is the most bullish of all the coins near term. All money should be taking positions in ethereum
+        The sma 200 is an absolute beast and the only reason ethereum isn’t running to the moon. A big wick means we are very well supported at the .037 level. I like ethereum in the middle term. However, we need to get back above the sma10 and the resistance line to gain mega bullish sentiment. Right now as long as we hold .038 and .037 levels, I’m liking ether. I’m also looking for opportunities to add.
 </p>
 
 
@@ -178,6 +182,27 @@
 </p>
 
 <p>Sentiment: bullish</p>
+
+
+
+    </div>
+  </div>
+
+  <p></p>
+
+  <div class="row">
+    <div class="col-md-12">
+  <h5>LTC/BTC</h5>
+
+      <a href="../img/crypto-updates/ltc-btc.PNG" target="_blank"/><img src="../img/crypto-updates/ltc-btc.PNG" alt="Litecoin / Bitcoin Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
+
+      <p>
+        The litecoin bitcoin chart looks like absolute shit. However as stated before i’m buying the doom as I don’t believe we can go much lower from here. The only thing that this chart has going for it is a potential double bottom on the ratio.
+</p>
+
+
+
+
 
 
 
@@ -196,8 +221,7 @@
 
       <p>
 
-        Amazon seems to be fighting with a breakout here. After a false breakdown of the pennant I'm extremely bullish. This is a good entry for the pop. RSI looks ready to run
-</p>
+      Amazon looks to be retracing but i think personally it’s building a nice support base for takeoff. I'm bullish on this coin as long as the bottom of the pennant and sma 10 hold nicely.</p>
 
 
 <p>Sentiment: near term bullish, mid term mega bullish</p>
@@ -217,10 +241,10 @@
       <a href="../img/crypto-updates/deo-usd.PNG" target="_blank"/><img src="../img/crypto-updates/deo-usd.PNG" alt="Diageo Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        Diageo is still fighting with the SMA10. We are barely holding the sma 50. Leaning toward a breakdown here to the 151 area.
-</p>
 
-      <p>Sentiment: short term neutral mid term neutral
+  On the weekly deo tested the sma 100 and bounced rather nicely. The RSI looks good and we are still trading in the channel. I personally would still like to see a break with a clear direction before I initiate any trades.</p>
+
+      <p>Sentiment: neutral
 
 </p>
 

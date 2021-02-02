@@ -2,7 +2,10 @@
 <html lang="en" dir="ltr">
 
      <!--header scripts -->
+     <head>
      <?php include ('includes/header-scripts.php'); ?>
+     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     </head>
 
 
 
@@ -134,16 +137,23 @@
 
               <h3>Graphic Design</h3>
 
-              <p>My Graphic Design projects always seem to few and far between. Although design isn't typically my primary job responsibility, <u>I always make time to keep my skills sharp.</u> Yes, even with example imaginary flyers.</p>
-
-
+              <p>My Graphic Design projects always seem to few and far between. Although design isn't typically my primary job responsibility, <u>I always make time to keep my skills sharp.</u> Yes, even with example imaginary flyers. And double yes for business cards.</p>
+  <div class="row logos">
+<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 logo-padding d-flex justify-content-center">
 
           <br/>
-      <a href="https://www.royaltech.io/img/royal-technology-seminar-flyer.png"><img src="img/royal-technology-seminar-flyer.png" alt="Flyer Example using vecteezy illustration" class="img-fluid img-thumbnail"></a>
+      <a href="https://www.royaltech.io/img/royal-technology-seminar-flyer2.png"><img src="img/royal-technology-seminar-flyer2.png" alt="Flyer Example using vecteezy illustration" class="img-fluid img-thumbnail"></a>
+</div>
+
+<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3 logo-padding d-flex justify-content-center">
+<a href="https://www.royaltech.io/img/royal-technology-business-card.png"><img src="img/royal-technology-business-card.png" alt="Example Business Card Design" class="img-fluid img-thumbnail"></a>
 
     </div>
   </div>
 
+
+</div>
+</div>
 
 
 

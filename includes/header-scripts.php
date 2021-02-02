@@ -1,4 +1,4 @@
-<head>
+
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-664YTCJXDW"></script>
@@ -25,7 +25,3 @@
 
 <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 <link rel="icon" href="../favicon.ico" type="image/x-icon">
-
-<title>Royal Technology</title>
-
-</head>

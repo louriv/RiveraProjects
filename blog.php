@@ -2,7 +2,10 @@
 <html lang="en" dir="ltr">
 
      <!--header scripts -->
+     <head>
      <?php include ('includes/header-scripts.php'); ?>
+     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     </head>
 
 
 
@@ -53,9 +56,32 @@
       </div>
     </div>
 
+    <div class="row blog-gray-bg">
+      <div class="col-xs-12 col-sm-12 col-md-8">
+        <h5>Certificate - Microsoft Azure Fundamentals - Completely Free!</h5>
+        <p>January 29, 2021</p>
+        <p>Microsoft is currently offering free, live virtual training with a free exam voucher included. Don't miss the opportunity to get microsoft certified for free!</p>
+
+
+
+      <a href="blog-azure-fundamentals.php" class="btn btn-gold">Read Article</a></p>
+
+        </div>
+
+
+      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <div class="text-container">
+          <a href="../img/azure-fundamentals.png" target="_blank">
+            <img src="../img/azure-fundamentals.png" alt="Microsoft Azure Fundamentals" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
+          </a>
+
+      </div>
+    </div>
+  </div>
+
     <div class="row blog-white-bg">
       <div class="col-xs-12 col-sm-12 col-md-8">
-        <h5>Cryptocurrency & Stock Analysis</h5>  
+        <h5>Cryptocurrency & Stock Analysis</h5>
         <p>I like to follow and track cryptocurrency coins as well as some stocks.<br/>
         <strong>Current Coins:</strong> Bitcoin, Ethereum, Litecoin, Ripple, OmiseGo,<br/>
         <strong>Current Stocks:</strong> Amazon, Diageo,</p>

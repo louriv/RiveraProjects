@@ -14,7 +14,10 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
 <html lang="en" dir="ltr">
 
      <!--header scripts -->
+     <head>
      <?php include ('includes/header-scripts.php'); ?>
+     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     </head>
 
 
 

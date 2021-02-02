@@ -1,10 +1,15 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
+
      <!--header scripts -->
+     <head>
+
+
      <?php include ('includes/header-scripts.php'); ?>
 
-
+     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     </head>
 
   <body class="site">
 
@@ -26,7 +31,7 @@
       <div class="container-fluid">
         <div class="row"><!-- begin test area -->
 
-        
+
         </div><!-- end testing area-->
     </div>
   </div>

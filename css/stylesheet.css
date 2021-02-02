@@ -58,6 +58,13 @@ h3 {
   /*font-family: 'kayak_sansregular', arial, sans-serif;*/
 }
 
+h4 {
+  font-family: 'Montserrat', arial, sans-serif;
+  margin-bottom: .5rem;
+  margin-top: .5rem;
+  /*font-family: 'kayak_sansregular', arial, sans-serif;*/
+}
+
 .portfolio-items {
   max-height: 210px;
 }
@@ -223,9 +230,19 @@ a.social-icons:hover {
 
 .btn-gold {
   color: #fff;
-  background-color: #d7c478;;
-  border-color: #d7c478;;
+  background-color: #d7c478;
+  border-color: #d7c478;
 
+}
+
+.btn-linktree {
+  color: #fff!Important;
+  background-color: #041E42!Important;
+  border-color: #041E42!Important;
+  width: 100%!Important;
+  margin: 0 auto!Important;
+  font-size: 1rem;
+  border-radius: 40px 40px 40px 40px;!important
 }
 
 .btn-gray {
