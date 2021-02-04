@@ -6,7 +6,7 @@
      <head>
      <?php include ('includes/header-scripts.php'); ?>
 
-     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     <title>Royal Technology | Louis A. Rivera Jr. | LinkTree</title>
      </head>
 
   <body class="site">

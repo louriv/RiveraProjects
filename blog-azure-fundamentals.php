@@ -6,7 +6,7 @@
      <!--header scripts -->
      <head>
      <?php include ('includes/header-scripts.php'); ?>
-     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     <title>Royal Technology | Louis A. Rivera Jr. | Azure Fundamentals Course</title>
      </head>
 
 

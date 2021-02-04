@@ -16,7 +16,7 @@ if(!isset($_SESSION["loggedin"]) || $_SESSION["loggedin"] !== true){
      <!--header scripts -->
      <head>
      <?php include ('includes/header-scripts.php'); ?>
-     <title>Royal Technology | Louis A. Rivera Jr. | Technology Consultant</title>
+     <title>Royal Technology | Louis A. Rivera Jr. | Employee Home</title>
      </head>
 
 
