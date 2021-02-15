@@ -33,7 +33,7 @@
       <ol class="breadcrumb">
         <li class="breadcrumb-item"><a href="/" class="breadlinks">Home</a></li>
         <li class="breadcrumb-item"><a href="blog.php" class="breadlinks">Blog</a></li>
-          <li class="breadcrumb-item active" aria-current="page">Rivera Projects, LLC</li>
+          <li class="breadcrumb-item active" aria-current="page">Rivera Projects</li>
   </ol>
 </nav>
 </div>
@@ -43,7 +43,7 @@
 <div class="container content-padding">
   <div class="row">
     <div class="col">
-      <h2>Blog - Rivera Projects, LLC</h2>
+      <h2>Rivera Projects, LLC</h2>
       </div>
     </div>
 

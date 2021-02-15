@@ -65,6 +65,11 @@ h4 {
   /*font-family: 'kayak_sansregular', arial, sans-serif;*/
 }
 
+.page-link {
+color: #041E42!important;
+
+}
+
 .portfolio-items {
   max-height: 210px;
 }
