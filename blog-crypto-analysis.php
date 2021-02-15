@@ -51,7 +51,7 @@
   <div class="row">
     <div class="col">
       <h5>Coins: Bitcoin, Ethereum, Litecoin, Ripple, OmiseGo<br/> Stocks: Amazon, Diageo</h5>
-      <p>Last Update: February 2, 2021. 9:46 AM EST</p>
+      <p>Last Update: February 15, 2021. 12:04 AM EST</p>
       <p><b><u>Legal disclaimer:</u></b> I am not a financial advisor. The advice here given is not a financial advice. You trade at your own risk and nobody can guarantee you results.
 
 
@@ -66,13 +66,16 @@
   <h5>BTC/USD</h5>
       <a href="../img/crypto-updates/btc-usd.PNG" target="_blank"/><img src="../img/crypto-updates/btc-usd.PNG" alt="Bitcoin Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
-      <p>This is the daily chart of BTC/USD. The SMA10 held surprisingly well and we broke upward overnight. We pushed past the resistance at 34k. That is the level we want to hold going forward. Should we do so, another test of 38k is incoming. Once support settles, I expect it to come in one quick move. Ultimately, if we can hold supports we are looking to retest ATH in the 40-42k range.</p>
+      <p>
+        Here I have zoomed in, daily chart of bitcoin. We had what isn’t a *breakdown* overnight but rather a test of the daily moving average support. ASs long as the ma9 and sma10 hold, we are bullish. It’s important to note that some exchanges saw a 50k test and rejected it. Coinbase did not see a test of 50k before it slipped. Either way this downslide is considered minor so far and got bought up quickly. Nothing is concerning with bitty yet but it’s important we keep an eye out for another push up to 50k</p>
+
+
 <p>
         Sentiment: currently holding 76% position. I offloaded 24% at 39k. Next target is 50k. Considering a 9% holdings offload at 50k to make it a clean 33%
 </p>
 
       <p>
-      How I would trade: entries close to 34k followed by a tight stop below 31200. The SMA 50 has proven its value and if we fall below that i would change sentiment to bearish. </p>
+      How I would trade: HODL and ride the wave. Offload some at 50k if you dont have a high risk tolerance. just make sure to keep some. </p>
 
     </div>
   </div>
@@ -85,14 +88,12 @@
 
       <a href="../img/crypto-updates/eth-usd.PNG" target="_blank"/><img src="../img/crypto-updates/eth-usd.PNG" alt="Ethereum Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
-      <p>Here is today’s ethereum chart. Ethereum is so close to price discovery mode it’s not even funny. The RSI experienced a breakout upward and looks good. The only thing holding us back is the sma 200 on the ETH/BTC chart. We get closer to running every day. Stay patient on this trade.
-</p>
+      <p>The channel is still in play on the ethereum daily. It looks like ethereum did experience a false breakdown of the ma9 and sma10. As the moving averages converge with the top of the channel, that means we have a big move coming around the corner. A breakdown of the ma9 and sma10 would give a target of 1532. That a good buy zone should we get there. The other option is the moving averages to squeeze ethereum above the top channel. Then we should see a quick test of the big 2k zone. </p>
 
-      <p>The biggest takeaway from this coin is that we can observe multiple rejections at the 1400 resistance. However, each resistance is eating the sellers as each rejection is getting weaker. Our goal is to stay above the sma10. Another attack on 1400 might do it, folks.</p>
 
       <p>Sentiment: bullish </p>
 
-      <p>How I would trade: Buy the breakout on the sma 200 and ride the wave. See eth/btc.
+      <p>HODL
 
 
 </p>
@@ -108,12 +109,12 @@
       <a href="../img/crypto-updates/ltc-usd.PNG" target="_blank"/><img src="../img/crypto-updates/ltc-usd.PNG" alt="Litecoin Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        Here is the daily chart on litecoin. Litecoin still has yet to invalidate an elliott wave 5 count. It also looks to be breaking above the descending channel. As expected we got a bounce in litecoin with it sitting at critical support on the ltc/btc chart. This little guy is still my favorite out of the 3. Although ethereum is closest to actually launching the rocket pad, this coin value relative to bitcoin hasn’t been this low since the 2017 crash. We need to give it some more time for some fireworks, folks. See ltc/btc
+        Litecoin has had an incredible week gaining about $70 / coin in the last 7 days. This little guy looks pooped for the time being. I expect some sideways consolidation while the RSI has a chance to cool off. The moving averages held well which is a good sign for future bullishness. Another thing to note is that the elliott wave played out nicely and was completed. We saw a little rejection of the ~220 region which was expected. Buy the dips.
 </p>
 
       <p>Sentiment: Swing Long, currently holding</p>
 
-      <p>How i would trade: HODL
+      <p>How i would trade: accumulate, regardless of short term price.
 
 
 
@@ -130,13 +131,13 @@
       <a href="../img/crypto-updates/omg-usd.PNG" target="_blank"/><img src="../img/crypto-updates/omg-usd.PNG" alt="Omise Go Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        Omg has been on an absolute tear lately ripping higher. RSI resistance seems to be holding back more gains. The 3.84 level seems to be holding (For now). I don’t have much confidence at that support with the volatility as this coin. I’m still bullish on this coin. My play would be to fish at the sma 10 (3.57 for entry)
+        OMG experienced really intense growth and saw a likewise intense pullback. I expect this coin to consolidate its gains prior to a push toward the 8.5 region.
 </p>
 
-      <p>Sentiment: neutral
+      <p>Sentiment: bullish
 </p>
 
-      <p>How i would trade: Look for entry around 3.57
+      <p>How I would trade: enter close to the ma9 or sma10
 
 
 </p>
@@ -152,7 +153,7 @@
       <a href="../img/crypto-updates/xrp-usd.PNG" target="_blank"/><img src="../img/crypto-updates/xrp-usd.PNG" alt="Ripple Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        Although xrp has been looking crazy lately, I don’t think anything out of the ordinary is happening. I’m looking at this coin as a mega breakout followed by a backtest of the moving averages which had it suppressed for so long. Not sure how the lawsuit noise is playing into this, but technically speaking, I'm hopping over to the bullish side of the force.
+        XRP found a newly created resistance at the .63 mark and saw a retreat just like the rest of the market. Still bullish.
 </p>
 
       <p>Sentiment: Bullish
@@ -173,7 +174,8 @@
       <a href="../img/crypto-updates/eth-btc.PNG" target="_blank"/><img src="../img/crypto-updates/eth-btc.PNG" alt="Ethereum / Bitcoin Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        The sma 200 is an absolute beast and the only reason ethereum isn’t running to the moon. (0.043) A big wick means we are very well supported at the .037 and .038 levels. I like ethereum in the middle term. We are fighting to get above the sma10. That is the first obstacle. If we can do so, we attack the sma 200 again. We also may be showing a breakout of the downtrend line since we first touched that crucial moving average. More to come
+
+        Eth/BTC is still trying to find it’s footing. Holding support at .037 is a start. I would imagine another attack on the SMA 200 on the horizon.
 </p>
 
 
@@ -197,7 +199,9 @@
       <a href="../img/crypto-updates/ltc-btc.PNG" target="_blank"/><img src="../img/crypto-updates/ltc-btc.PNG" alt="Litecoin / Bitcoin Chart" class="img-thumbnail d-xs-block img-fluid" style="margin: 10px 0px 10px 0px;"></a>
 
       <p>
-        Here is the litecoin/bitcoin ratio chart. Litecoin got a much needed bounce from the support ratio price as well as the RSI. We are currently even above the sma10. Make no mistake about this. We are absolutely bearish until we can get above the moving averages. However, I like to buy the doom. Remember, the last time litecoin was this suppressed against bitcoin was after the 2017 crash. Technically speaking, there is more room below for another hit ~20%. However I decided to buy all the way down should that be the case. I think we are locking in the bottom before a moon landing.
+        LTC/BTC ratio is still well within the triangle. The longer we hover down here, the more we form a nice base for a runup in the medium term. The litecoin price has done well against the usd pair recently, but in the long term, we are going way higher once we break above this triangle upward.
+
+
 </p>
 
 
@@ -210,6 +214,8 @@
   </div>
 
   <p></p>
+
+  <!--
 
   <h2>Bonus Charts</h2>
 
@@ -257,7 +263,7 @@ On the daily diageo found support and is heading up to test the top end of the c
 
     </div>
   </div>
-
+-->
 
 
       <!-- new section goes here -->

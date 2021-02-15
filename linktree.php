@@ -66,6 +66,11 @@
         </div>
 
         <div class="col-xs-12 col-sm-12 col-md-12">
+          <a href="https://www.royaltech.io/blog-comptia-bundle-2021.php" target="_blank" class="btn btn-linktree"><h4>CompTIA Training Deal</h4></a></p>
+
+          </div>
+
+        <div class="col-xs-12 col-sm-12 col-md-12">
           <a href="https://www.royaltech.io/blog-crypto-analysis.php" target="_blank" class="btn btn-linktree"><h4>Crypto Analysis</h4></a></p>
 
           </div>

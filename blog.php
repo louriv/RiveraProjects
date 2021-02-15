@@ -56,9 +56,78 @@
       </div>
     </div>
 
+    <div class="row blog-white-bg">
+      <div class="col-xs-12 col-sm-12 col-md-8">
+        <h5>CompTIA Certificate Bundle - Linux+, Server+, Security+ & More!</h5>
+        <p>February 14, 2021</p>
+        <p>Read about how to gain access to a ton of CompTIA learning material, for a great price!</p>
+
+
+
+      <a href="blog-comptia-bundle-2021.php" class="btn btn-gold">Read Article</a></p>
+
+        </div>
+
+
+      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <div class="text-container">
+
+            <img src="../img/blog-computer-article.jpg" alt="Computer Learning Bundle" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
+          </a>
+
+      </div>
+    </div>
+    </div>
+
     <div class="row blog-gray-bg">
       <div class="col-xs-12 col-sm-12 col-md-8">
-        <h5>Certificate - Microsoft Azure Fundamentals - Completely Free!</h5>
+        <h5>Certificate - Microsoft Azure Fundamentals</h5>
+        <p>February 12, 2021</p>
+        <p>Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.</p>
+
+
+
+      <a href="https://www.youracclaim.com/earner/earned/badge/53182e35-e419-4b97-ad54-91308a06c737" class="btn btn-gold" target="_blank">View Certficate</a></p>
+
+        </div>
+
+
+      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <div class="text-container">
+          <a href="https://www.youracclaim.com/earner/earned/badge/53182e35-e419-4b97-ad54-91308a06c737" target="_blank">
+            <img src="../img/azure-fundamentals.png" alt="Security Plus Certified" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
+          </a>
+
+      </div>
+    </div>
+  </div>
+
+    <div class="row blog-white-bg">
+      <div class="col-xs-12 col-sm-12 col-md-8">
+        <h5>Unsplash - Totally Free Image Assets</h5>
+        <p>February 4, 2021</p>
+        <p>Read about unsplash and how it could help you as a designer or developer when you're in a pinch.</p>
+
+
+
+      <a href="blog-unsplash.php" class="btn btn-gold">Read Article</a></p>
+
+        </div>
+
+
+      <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+        <div class="text-container">
+
+            <img src="../img/unsplash.jpg" alt="Bitcoin Image" class="img-thumbnail img-fluid blog-img d-none d-md-block blog-images">
+          </a>
+
+      </div>
+    </div>
+    </div>
+
+    <div class="row blog-gray-bg">
+      <div class="col-xs-12 col-sm-12 col-md-8">
+        <h5>Microsoft Azure Fundamentals - Webinar and Exam Voucher - Completely Free!</h5>
         <p>January 29, 2021</p>
         <p>Microsoft is currently offering free, live virtual training with a free exam voucher included. Don't miss the opportunity to get microsoft certified for free!</p>
 

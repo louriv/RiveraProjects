@@ -70,7 +70,7 @@
 <div class="row">
   <div class="col-sm-12 col-md-4">
     <h5>Web Languages & Technologies</h5>
-    <p>HTML, CSS, PHP, JavaScript, jQuery, Node.JS, Ruby on Rails, Twitter Bootstrap Web Framework, MySQL Database, Lets Encrypt SSL, Filezilla FTP, XAMPP, Responsive Web Design, Apache Web Server, RDP, SaSS, Command Line </p>
+    <p>HTML, CSS, PHP, JavaScript, jQuery, Node.JS, Ruby on Rails, Twitter Bootstrap Web Framework, MySQL Database, Lets Encrypt SSL, Filezilla FTP, XAMPP, Responsive Web Design, Apache & IIS Web Servers, RDP, SaSS, Command Line </p>
 
           </div>
   <div class="col-sm-12 col-md-4">
@@ -98,7 +98,7 @@
           </div>
           <div class="col-sm-12 col-md-4">
                   <h5>Virtualization</h5>
-                  <p>Oracle VM VirtualBox, Hyper-V, VSphere, AWS Light Sail</p>
+                  <p>Oracle VM VirtualBox, Hyper-V, VSphere, AWS Light Sail, Microsoft Azure</p>
 
                 </div>
         </div>
